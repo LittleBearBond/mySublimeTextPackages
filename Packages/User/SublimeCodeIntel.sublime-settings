@@ -1,0 +1,4 @@
+{
+	"codeintel_enabled_languages": ["JavaScript", "Less", "Node.js", "PHP"],
+	"codeintel_live_enabled_languages": ["JavaScript", "Less", "Node.js", "PHP"],
+}

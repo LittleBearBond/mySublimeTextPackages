@@ -1,0 +1,13 @@
+<snippet>
+	<!--${1:name}表示代码插入后，光标所停留的位置，可同时插入多个。其中:name为自定义参数（可选）。${2}表示代码插入后，按Tab键，光标会根据顺序跳转到相应位置（以此类推）。-->
+	
+    <content><![CDATA[if (${1}) {
+  	 
+}]]></content>
+    <!-- 可选：快捷键，利用Tab自动补全代码的功能 -->
+    <tabTrigger>if</tabTrigger>
+    <!-- 可选：使用范围，不填写代表对所有文件有效。附：source.css和test.html分别对应不同文件。 -->
+    <scope>source.js</scope>
+     <!-- 可选：在snippet菜单中的显示说明（支持中文）。如果不定义，菜单则显示当前文件的文件名。 -->
+    <description>self-if</description>
+</snippet>
