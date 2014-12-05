@@ -20,5 +20,6 @@
 	"tab_size": 4,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"create_window_at_startup": false,
 }

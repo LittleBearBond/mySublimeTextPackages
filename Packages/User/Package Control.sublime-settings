@@ -4,6 +4,7 @@
 		"All Autocomplete",
 		"Autoprefixer",
 		"BracketHighlighter",
+		"CSS Completions",
 		"CSS Format",
 		"CSS3",
 		"DocBlockr",
@@ -13,6 +14,7 @@
 		"JavaScript Snippets",
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
+		"Less2Css",
 		"SublimeTmpl"
 	]
 }
