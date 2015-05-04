@@ -1,10 +1,20 @@
 {
+	"attr":
+	{
+		"author": "xj",
+		"email": "xj_bond@live.com",
+		"hello": "$",
+		"link": "http://weibo.com/u/1932435750/home?topnav=1&wvr=5"
+	},
 	"auto_complete_selector": "source, text",
 	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"create_window_at_startup": false,
+	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
-	"font_face": "微软雅黑",
-	"font_size": 10,
+	"font_face": "Consolas",
+	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -13,13 +23,15 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"open_files_in_new_window": false,
 	"preview_on_click": true,
 	"shift_tab_unindent": true,
 	"show_encoding": true,
 	"show_full_path": true,
 	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": true,
-	"word_wrap": false,
-	"create_window_at_startup": false,
+	"word_wrap": false
 }

@@ -1,6 +1,27 @@
 {
 	"folder_history":
 	[
+		"/C/Users/xiongjian.KOOLEARN-INC/Desktop/slidePage",
+		"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates",
+		"/E/Work-dongfangwendao/WebSeatFlipCourse/Admin/Trunk/WebSeat.FlipCourse.Presentation.Web",
+		"/E/Work-XDF/code/static",
+		"/E/Work-dongfangwendao/WebSeatB2C-WEB/WebSeat.B2C.WebPresentation",
+		"/E/Work-dongfangwendao/WebSeatFlipCourse/WebSeat.FlipCourse.Presentation.Web",
+		"/E/MyCode-download/form-master",
+		"/E/Work-dajie/Code/assets/up/tusi",
+		"/E/MyCode-download/bootstrap-3.3.4",
+		"/E/Work-XDF/player/svn/jplayer-new00",
+		"/E/Work-dajie/Code/assets/up/dj-mobile/pushover",
+		"/E/MyCode-download/jPlayer-2.9.2",
+		"/E/Work-dajie/zip/MySublimePackage",
+		"/E/Work-XDF/player/jsplayer",
+		"/E/myCode",
+		"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3",
+		"/E/MyCode/myTest/Sass",
+		"/E/MyCode",
+		"/E/MyCode-download/bootstrap-sass-master",
+		"/D/Software/Apache Software Foundation",
+		"/E/Work-dajie/MySublimePackage",
 		"/E/myGitHub",
 		"/D/googledownload/artDialog-master",
 		"/C/Users/jian.xiong/Desktop/haha",
@@ -13,18 +34,422 @@
 		"/E/MyCode/test",
 		"/E/MyCode/jsbook-master"
 	],
-	"last_version": 3065,
-	"last_window_id": 2,
+	"last_version": 3083,
+	"last_window_id": 9,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 804.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"re",
+						"require"
+					],
+					[
+						"my",
+						"my-clearfix"
+					],
+					[
+						"type",
+						"typeof"
+					],
+					[
+						"sel",
+						"self"
+					],
+					[
+						"ds",
+						"disable"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"inli",
+						"inline"
+					],
+					[
+						"box",
+						"box-shadow"
+					],
+					[
+						"dis",
+						"disabled	Attr"
+					],
+					[
+						"la",
+						"label"
+					],
+					[
+						"fons",
+						"font-style"
+					],
+					[
+						"http",
+						"http://58.123.102.108"
+					],
+					[
+						"upload",
+						"uploadify"
+					],
+					[
+						"init",
+						"initEvent"
+					],
+					[
+						"num",
+						"num"
+					],
+					[
+						"page",
+						"pager"
+					],
+					[
+						"to",
+						"totalMoney"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"root",
+						"rootText"
+					],
+					[
+						"opts",
+						"options"
+					],
+					[
+						"now",
+						"nowrap"
+					],
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"ini",
+						"init"
+					],
+					[
+						"isF",
+						"isFunction"
+					],
+					[
+						"order",
+						"orderId"
+					],
+					[
+						"sub",
+						"submit"
+					],
+					[
+						"doc",
+						"document"
+					],
+					[
+						"appe",
+						"appendTo"
+					],
+					[
+						"clea",
+						"clearTimeout"
+					],
+					[
+						"data",
+						"data"
+					],
+					[
+						"clo",
+						"colspan	Attr"
+					],
+					[
+						"wrap",
+						"wrap-content"
+					],
+					[
+						"se",
+						"selected"
+					],
+					[
+						"disa",
+						"disabled"
+					],
+					[
+						"vis",
+						"visibility"
+					],
+					[
+						"visi",
+						"visibility"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"hid",
+						"hide"
+					],
+					[
+						"in",
+						"index"
+					],
+					[
+						"cou",
+						"courseId"
+					],
+					[
+						"not",
+						"not-sel"
+					],
+					[
+						"selte",
+						"selected"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"nota",
+						"not-allowed"
+					],
+					[
+						"defa",
+						"default"
+					],
+					[
+						"sele",
+						"selector"
+					],
+					[
+						"sle",
+						"selected"
+					],
+					[
+						"cli",
+						"click"
+					],
+					[
+						"ha",
+						"hasClass"
+					],
+					[
+						"e",
+						"extend"
+					],
+					[
+						"on",
+						"onSelAfter"
+					],
+					[
+						"val",
+						"value"
+					],
+					[
+						"get",
+						"getFormData"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"rel",
+						"relative"
+					],
+					[
+						"rig",
+						"right"
+					],
+					[
+						"lh",
+						"line-height"
+					],
+					[
+						"selec",
+						"selected"
+					],
+					[
+						"min",
+						"mixin"
+					],
+					[
+						"conf",
+						"confirm"
+					],
+					[
+						"cu",
+						"cutStr"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"hi",
+						"hidden"
+					],
+					[
+						"has",
+						"hasOpen"
+					],
+					[
+						"note",
+						"notelist"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"remo",
+						"remove"
+					],
+					[
+						"arr",
+						"arrVal"
+					],
+					[
+						"slide",
+						"slideUp"
+					],
+					[
+						"cl",
+						"click"
+					],
+					[
+						"remove",
+						"removeClass"
+					],
+					[
+						"ul",
+						"ul"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"po",
+						"pointer"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"no",
+						"none"
+					],
+					[
+						"foc",
+						"focus"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"ri",
+						"right"
+					],
+					[
+						"ac",
+						"active"
+					],
+					[
+						"fonst",
+						"font-style"
+					],
+					[
+						"abs",
+						"absolute"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"le",
+						"level"
+					],
+					[
+						"out",
+						"outline"
+					],
+					[
+						"teal",
+						"text-align"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"time",
+						"timeFuncs"
+					],
+					[
+						"playe",
+						"player"
+					],
+					[
+						"vi",
+						"video"
+					],
+					[
+						"zi",
+						"z-index"
+					],
+					[
+						"top",
+						"top	top"
+					],
+					[
+						"de",
+						"default"
+					],
+					[
+						"player",
+						"playerObj"
+					],
+					[
+						"arg",
+						"arguments"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"if",
+						"if	self-if"
+					],
 					[
 						"curr",
 						"currNum"
@@ -34,61 +459,143 @@
 						"touchTarget"
 					],
 					[
-						"ba",
-						"background-color"
-					],
-					[
 						"he",
 						"height"
-					],
-					[
-						"vis",
-						"visibility"
-					],
-					[
-						"vi",
-						"visibility"
 					]
 				]
 			},
-			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 400.0,
+				"last_filter": "set ",
 				"selected_items":
 				[
 					[
-						"inp",
+						"set ",
+						"Set Syntax: HTML"
+					],
+					[
+						"setjavas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"in",
 						"Package Control: Install Package"
 					],
 					[
-						"insp",
-						"Package Control: Install Package"
+						"inspac",
+						"Snippet: input - search"
 					],
 					[
-						"inpa",
-						"Package Control: Install Package"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
+						"remove",
+						"Package Control: Remove Package"
 					],
 					[
 						"ins",
 						"Package Control: Install Package"
 					],
 					[
-						"remove",
+						"set htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"set sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"set java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set h",
+						"Set Syntax: HTML"
+					],
+					[
+						"set html",
+						"Set Syntax: HTML"
+					],
+					[
+						"set ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"seth",
+						"Set Syntax: HTML"
+					],
+					[
+						"remo",
 						"Package Control: Remove Package"
+					],
+					[
+						"set le",
+						"Set Syntax: LESS"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remop",
+						"Package Control: Remove Package"
+					],
+					[
+						"insp",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ints",
+						"Package Control: Install Package"
+					],
+					[
+						"Install Package",
+						"Package Control: Install Package"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"st java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"inp",
+						"Package Control: Install Package"
+					],
+					[
+						"inpa",
+						"Package Control: Install Package"
 					]
 				],
-				"width": 512.0
+				"width": 520.0
 			},
 			"console":
 			{
-				"height": 126.0,
+				"height": 164.0,
 				"history":
 				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by).",
 					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
@@ -103,67 +610,180 @@
 			},
 			"file_history":
 			[
-				"/E/MyCode/study/mtusir/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/lib/help/formatter.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/mail_form.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/json/mail.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/make-info.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/100103.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102301.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/num/102301.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102316.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/102301.js",
-				"/C/Users/jian.xiong/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/jian.xiong/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/E/MyCode/test/test/index.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102301-2.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102301-1.html",
-				"/E/MyCode/test/test/ajax.php",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/test/test.js",
-				"/C/Users/jian.xiong/Desktop/index.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/easy-validate.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/add_record.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102317.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/mail_form.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102304.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/two-phase/mail_form_phone.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102315.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102314.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102313.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102312.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102311.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102310.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/num/102315.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/mail_source.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/mail-phone.css",
-				"/E/MyCode/study/swipe/main1.0.js",
-				"/E/MyCode/study/mtusir/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
-				"/E/MyCode/test/js/mytouch.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/content/js/slidepage/slidePage1.0.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/content/css/dialog.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/num/100101.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/100108.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/100101.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/100103.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/100104.js",
-				"/E/MyCode/jsbook-master/ch3lang.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/100105.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/082004.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/com/selectprofession.js",
-				"/E/MyCode/test/myJs/webseat.core.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/num/102305.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/com/basevalidaterule.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/100108.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102306.html"
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/fileUpload/upload-cmd.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/fileUpload/demo.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/fileUpload/demo-auto-upload.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/fileUpload/upload.js",
+				"/E/Work-XDF/code/static/framework/global.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/fileUpload/uploadify/uploadify.css",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register-logic.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register.css",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register.tpl",
+				"/E/myCode/myTest/fileUpload/upload.js",
+				"/E/myCode/myTest/fileUpload/uploadify/jquery.uploadify-zh.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-course.html",
+				"/E/myCode/myTest/fileUpload/demo.html",
+				"/E/myCode/myTest/fileUpload/demo-auto-upload.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-course.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/json/buy/course.php",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/common/base/common.scss",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/refund.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/list.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/paid.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/user/login-register-demo.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-pay.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/buy/buy-common.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-pay.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register.html",
+				"/E/Work-XDF/code/static/project/setting/1.0/demo/safety.html",
+				"/E/Work-XDF/code/static/project/setting/1.0/js/safety/page.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-pay-weixin.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-recharge-success.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-pay-weixin.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/email/order-success.html",
+				"/E/myCode/myTest/fileUpload/uploadify/jquery.uploadify.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/user-account-query/user-proportions.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/user-account-query/page.scss",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/path/path.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/json/path/edit-tree.php",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/json/user-account-query/data.php",
+				"/E/Work-dajie/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/xiaomi_mail.html",
+				"/E/Work-dajie/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/nlvc_mail.html",
+				"/E/Work-dajie/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/mail_20140717.html",
+				"/E/myCode/myTest/fileUpload/uploadify/uploadify.css",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/use-proportions.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/user-login.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/list.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/userinfo.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/user-prop.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/cash-account.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-vip.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-live.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-recharge.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-live.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/order/page.scss",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/user-account-query/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/turnpage.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/null.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/common.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/i.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/user/my-account.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/user/my-order-all.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/buy/buy-success.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-success.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-recharge.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/path/path.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/live-product.html",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/PageBase.js",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/Video.js",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/OverrideApi.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/user-account-query/page.css",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/path/page.css",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/form/getFormData.js",
+				"/E/Work-dongfangwendao/WebSeatFlipCourse/Admin/Trunk/WebSeat.Web.Core/Controls/EasyUiPageHtml.cs",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/live-course/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/live-course/edit.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/live-course/liveDialog/dialog.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/my-order-all.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/buy/buy-pay.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/buy/buy-course.scss",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/bootstrap-datepicker/bootstrap-datepicker.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/learn-progess-detail.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/bootstrap-datepicker/datapicker.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/tpl/buy/buy-vip.tpl",
+				"/E/Work-XDF/code/static/project/teach/1.x/tpl/buy/buy-course.tpl",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/use-prop.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/batch-list.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/product-manage-edit/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/live/live-edit.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/product-manage/edit.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/live/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/bootstrap-datepicker/demo.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/bootstrap-datepicker-dist/bootstrap-datepicker.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/datapicker.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/bootstrap-datepicker-dist/bootstrap-datepicker.css",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/live/datetimepicker/bootstrap-datetimepicker.zh-CN.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/live/datetimepicker/bootstrap-datetimepicker.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/bootstrap-datepicker-dist/bootstrap-datepicker.zh-CN-min.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/bootstrap-datepicker-dist/bootstrap-datepicker-min.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/order/page.css",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/closed.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/pendingPay.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/freeze.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/build-table-list/build-table-list.js",
+				"/E/Work-XDF/code/static/dist/project/teach/1.x/js/buy/buy-recharge.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/product-manage-list/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/live-list/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/product-manage-list/page.scss",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/live-list/page.scss",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/product-manage/list.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/live/live-list.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/exam-area-manage/list.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/path/list.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/path/path-detail.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/user/my-order.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/common/build-page-turn/build-page-turn.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/common/build-page-turn/css/paging.scss",
+				"/E/Work-XDF/code/static/framework/css/shark/ext/table/demo/test-table.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/user/my-account-money.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/user/my-order-info.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/user/user-common.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/my-account-money.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/my-order-haspay.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/my-order-null.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/my-order-waitpay.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/user/user-common.css",
+				"/E/Work-XDF/code/static/project/teach/1.x/common/build-page-turn/css/paging.css",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/buy/buy-recharge-success.scss"
 			],
 			"find":
 			{
-				"height": 37.0
+				"height": 40.0
 			},
 			"find_in_files":
 			{
 				"height": 99.0,
 				"where_history":
 				[
+					"E:\\Work-dongfangwendao\\WebSeatFlipCourse\\Admin\\Trunk\\WebSeat.FlipCourse.Presentation.Web",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css\\common",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css\\buy",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x",
+					"E:\\Work-dajie\\Code\\assets\\up\\dj-mobile\\pushover",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap",
+					"E:\\myCode\\study\\sass\\mixins",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
+					"E:\\Work-XDF\\player\\svn\\jplayer-new00\\skin",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
+					"E:\\myCode\\study\\sass\\mixins",
+					"E:\\Work-dajie\\Code\\assets\\up\\dj-mobile\\pushover\\css\\2015",
+					"E:\\myCode\\study\\sass\\mixins",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
+					"E:\\Work-XDF\\code\\static\\framework",
+					"E:\\Work-XDF\\code\\static",
+					"E:\\Work-XDF\\code\\static\\project\\setting\\1.0",
+					"E:\\MyCode-download\\jPlayer-2.9.2",
+					"E:\\Work-dajie\\zip\\MySublimePackage",
+					"C:\\Users\\xiongjian.KOOLEARN-INC\\AppData\\Roaming\\Sublime Text 3",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap"
 				]
 			},
 			"find_state":
@@ -171,10 +791,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"wrapEl",
-					"getTranslateDis",
-					"departments",
-					"beforesend"
+					"fileQueueId",
+					"fileId",
+					"38",
+					"uploadify",
+					"button_height",
+					"height",
+					"width",
+					"fileId",
+					"false",
+					"updateCourseList",
+					"refreshCourseList",
+					"updateCourseList",
+					"4",
+					"span",
+					"h",
+					"d",
+					"th",
+					"$paymentContent",
+					"checkedRadio",
+					"line-height",
+					"render",
+					"updateCourseList",
+					"api",
+					"updateCourseList",
+					"updatePageData",
+					"refreshCourseList",
+					"getDataAndRender",
+					"button",
+					"<a",
+					"a",
+					"Cancelled",
+					" Cancelled",
+					"is already in the queue.Do you want to replace the existing item in the queue?",
+					"Complete",
+					"this.",
+					"=",
+					"uploadify_onSelectError ",
+					"_treeDataCustom",
+					"18",
+					"\"25\"",
+					"\"30\"",
+					"30",
+					"left",
+					"14px",
+					"em",
+					"14px;",
+					"\"3\"",
+					"3",
+					"<td></td>",
+					"width=\"20\"",
+					"30",
+					"colspan=\"\" rowspan=\"\" headers=\"\"",
+					"666",
+					"width=\"666\"",
+					"68",
+					"12px",
+					"#d8d8d8",
+					"<td",
+					"td",
+					"width=\"668\"",
+					"align=\"right\"",
+					"4",
+					"colspan=\"4\"",
+					"56",
+					"</dd>",
+					"<dd>",
+					"<tr height=\"56\">",
+					"height=\"56\"",
+					"<td>",
+					"<tr>",
+					"target=\"_blank\"",
+					"href=\"\"",
+					"<a href=\"\"><img src=\"/project/teach/1.x/image/course.jpg\" alt=\"\"></a>",
+					"114",
+					"25",
+					"2970a7",
+					"35",
+					";\">",
+					"                     \n",
+					"46",
+					"26",
+					"　11：11：11",
+					"dd",
+					"WebJs.Uploadify",
+					"WebJs.Dialog.Tip",
+					"",
+					"WebJs.Uploadify",
+					"target",
+					"sels",
+					"}\n",
+					"                    ",
+					"i-btn-red",
+					"$btn",
+					"treeEdit",
+					"$this",
+					"getFormData",
+					"$this",
+					"$(this)",
+					"renderTags",
+					"liveDialog",
+					"addLiveFn",
+					"active",
+					"./order/",
+					"./course/",
+					"./user-account-query/",
+					"items",
+					"{\n",
+					"live-course",
+					"/live/",
+					"/live",
+					"live",
+					"郝晶芳",
+					"6",
+					"0",
+					"46",
+					"a",
+					"i",
+					"44",
+					"href=\"",
+					"paid.html",
+					"<i  class=\"i-refund\">退</i>",
+					"<a href=\"paid.html\">OD2015013100001</a>",
+					"product-manage",
+					"course",
+					" {",
+					"尹昆",
+					"郝晶芳",
+					"<!--\n"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -186,32 +930,198 @@
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
-				"whole_word": false,
+				"whole_word": true,
 				"wrap": true
 			},
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 40.0
 			},
 			"input":
 			{
-				"height": 37.0
+				"height": 52.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 141.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
+			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 54.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"g",
+						"static\\framework\\global.html"
+					],
+					[
+						"/fileupload/demo.html",
+						"myCode\\myTest\\fileUpload\\demo.html"
+					],
+					[
+						"course.php",
+						"static\\project\\teach\\1.x\\json\\buy\\course.php"
+					],
+					[
+						"buy-course",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-course.html"
+					],
+					[
+						"user/dialog-login.html",
+						"static\\project\\teach\\1.x\\demo\\user\\dialog-login.html"
+					],
+					[
+						"order/paid.html",
+						"static\\project\\cms-mix\\1.x\\demo\\order\\paid.html"
+					],
+					[
+						"/framework/global.html",
+						"static\\framework\\global.html"
+					],
+					[
+						"buy/buy-pay.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-pay.html"
+					],
+					[
+						"safety/page.js",
+						"static\\project\\setting\\1.0\\js\\safety\\page.js"
+					],
+					[
+						"demo/safety.html",
+						"static\\project\\setting\\1.0\\demo\\safety.html"
+					],
+					[
+						"pay.htm",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-pay.html"
+					],
+					[
+						"user-account-query/user-login.html",
+						"static\\project\\cms-mix\\1.x\\demo\\user-account-query\\user-login.html"
+					],
+					[
+						"js/buy/buy-live.js",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-live.js"
+					],
+					[
+						"buy/buy-live.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-live.html"
+					],
+					[
+						"buy-success.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-success.html"
+					],
+					[
+						"buy/buy-recharge.js",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-recharge.js"
+					],
+					[
+						"buy/buy-recharge.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-recharge.html"
+					],
+					[
+						"user-account-query/page.css",
+						"static\\project\\cms-mix\\1.x\\css\\user-account-query\\page.css"
+					],
+					[
+						"css/path/page.css",
+						"static\\project\\cms-mix\\1.x\\css\\path\\page.css"
+					],
+					[
+						"js/path/path.js",
+						"static\\project\\cms-mix\\1.x\\js\\path\\path.js"
+					],
+					[
+						"demo/path/path.html",
+						"static\\project\\cms-mix\\1.x\\demo\\path\\path.html"
+					],
+					[
+						"live-course/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\live-course\\page.js"
+					],
+					[
+						"live-course/edit.html",
+						"static\\project\\cms-mix\\1.x\\demo\\live-course\\edit.html"
+					],
+					[
+						"user/my-order-all.js",
+						"static\\project\\teach\\1.x\\js\\user\\my-order-all.js"
+					],
+					[
+						"my-order-all.html",
+						"static\\project\\teach\\1.x\\demo\\user\\my-order-all.html"
+					],
+					[
+						"my-order-all.js",
+						"static\\project\\teach\\1.x\\js\\user\\my-order-all.js"
+					],
+					[
+						"1.x/demo/i.html",
+						"static\\project\\cms-mix\\1.x\\demo\\i.html"
+					],
+					[
+						"product-manage-edit/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\product-manage-edit\\page.js"
+					],
+					[
+						"product-manage/edit.html",
+						"static\\project\\cms-mix\\1.x\\demo\\product-manage\\edit.html"
+					],
+					[
+						"/js/live/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\live\\page.js"
+					],
+					[
+						"live/live-edit.html",
+						"static\\project\\cms-mix\\1.x\\demo\\live\\live-edit.html"
+					],
+					[
+						"product-manage/list.html",
+						"static\\project\\cms-mix\\1.x\\demo\\product-manage\\list.html"
+					],
+					[
+						"my-order",
+						"static\\project\\teach\\1.x\\css\\user\\my-order.scss"
+					],
+					[
+						"buy-recharge.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-recharge.html"
+					],
+					[
+						"table/demo/demo.html",
+						"static\\framework\\css\\shark\\ext\\table\\demo\\demo.html"
+					],
+					[
+						"lesson-list.js",
+						"static\\project\\teach\\1.x\\js\\lesson-list\\lesson-list.js"
+					],
+					[
+						"lesson-list.html",
+						"static\\project\\teach\\1.x\\demo\\lesson-list.html"
+					],
+					[
+						"safety.html",
+						"static\\project\\setting\\1.0\\demo\\safety.html"
+					],
+					[
+						"vendor-pre",
+						"bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins\\_vendor-prefixes.scss"
+					],
+					[
+						"global.html",
+						"static\\framework\\global.html"
+					],
 					[
 						"mialfor",
 						"pushover\\js\\mail_form.js"
@@ -254,6 +1164,7 @@
 			"select_project":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -262,6 +1173,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -271,13 +1183,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 287.0,
+			"side_bar_width": 342.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 640.0
+		"new_window_width": 1904.0
 	},
 	"windows":
 	[
@@ -287,124 +1199,500 @@
 				"selected_items":
 				[
 					[
-						"w",
+						"fun",
+						"transition-timing-function"
+					],
+					[
+						"sele",
+						"selected"
+					],
+					[
+						"hi",
+						"hide"
+					],
+					[
+						"show",
+						"showText"
+					],
+					[
+						"sel",
+						"self"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"wi",
 						"window"
+					],
+					[
+						"end",
+						"endTime"
+					],
+					[
+						"re",
+						"readonly"
+					],
+					[
+						"dis",
+						"disabled"
+					],
+					[
+						"di",
+						"disabled	Attr"
+					],
+					[
+						"valid",
+						"valid"
+					],
+					[
+						"transo",
+						"transform"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"ch",
+						"checked"
+					],
+					[
+						"ex",
+						"extend"
+					],
+					[
+						"che",
+						"checked	Attr"
+					],
+					[
+						"sle",
+						"select	<select>"
+					],
+					[
+						"op",
+						"opts"
+					],
+					[
+						"textal",
+						"text-align"
+					],
+					[
+						"max",
+						"maxNum"
 					],
 					[
 						"con",
 						"content"
 					],
 					[
-						"rel",
-						"relative"
-					],
-					[
-						"show",
-						"showError"
-					],
-					[
-						"bor",
-						"border"
-					],
-					[
-						"ba",
-						"background"
-					],
-					[
-						"bo",
-						"border"
-					],
-					[
-						"box",
-						"box-sizing"
-					],
-					[
-						"blo",
-						"bold"
-					],
-					[
-						"backc",
-						"background-color"
-					],
-					[
-						"page",
-						"page1"
-					],
-					[
-						"dis",
-						"display"
-					],
-					[
-						"tex",
+						"texta",
 						"text-align"
 					],
 					[
-						"bac",
-						"background-color"
-					],
-					[
-						"win",
-						"window"
-					],
-					[
-						"get",
-						"getElementById  (function)"
-					],
-					[
-						"remo",
-						"removeClass"
-					],
-					[
-						"remove",
-						"removeAttr"
-					],
-					[
-						"inn",
-						"inline-block"
-					],
-					[
-						"wi",
-						"width"
-					],
-					[
-						"pad",
-						"padding"
-					],
-					[
-						"pa",
-						"padding"
+						"te",
+						"textarea	<textarea>"
 					],
 					[
 						"fons",
 						"font-size"
 					],
 					[
-						"borr",
-						"border-radius"
+						"se",
+						"self"
 					],
 					[
-						"bas",
-						"background-size"
+						"rese",
+						"resetForm"
 					],
 					[
-						"bacorr",
-						"background-color"
+						"hsa",
+						"hasClass"
+					],
+					[
+						"res",
+						"resetForm"
+					],
+					[
+						"fo",
+						"form"
+					],
+					[
+						"has",
+						"hasClass"
+					],
+					[
+						"ou",
+						"ourRangMsg"
+					],
+					[
+						"defin",
+						"define"
+					],
+					[
+						"文件上传",
+						"文件上传测试"
+					],
+					[
+						"my",
+						"my-clearfix"
+					],
+					[
+						"type",
+						"typeof"
+					],
+					[
+						"ds",
+						"disable"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"inli",
+						"inline"
+					],
+					[
+						"box",
+						"box-shadow"
+					],
+					[
+						"la",
+						"label"
+					],
+					[
+						"http",
+						"http://58.123.102.108"
+					],
+					[
+						"upload",
+						"uploadify"
+					],
+					[
+						"init",
+						"initEvent"
+					],
+					[
+						"num",
+						"num"
+					],
+					[
+						"page",
+						"pager"
+					],
+					[
+						"to",
+						"totalMoney"
+					],
+					[
+						"root",
+						"rootText"
+					],
+					[
+						"opts",
+						"options"
+					],
+					[
+						"now",
+						"nowrap"
+					],
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"ini",
+						"init"
+					],
+					[
+						"isF",
+						"isFunction"
+					],
+					[
+						"order",
+						"orderId"
+					],
+					[
+						"sub",
+						"submit"
+					],
+					[
+						"doc",
+						"document"
+					],
+					[
+						"appe",
+						"appendTo"
+					],
+					[
+						"clea",
+						"clearTimeout"
+					],
+					[
+						"data",
+						"data"
+					],
+					[
+						"clo",
+						"colspan	Attr"
+					],
+					[
+						"wrap",
+						"wrap-content"
+					],
+					[
+						"disa",
+						"disabled"
+					],
+					[
+						"vis",
+						"visibility"
+					],
+					[
+						"visi",
+						"visibility"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"hid",
+						"hide"
+					],
+					[
+						"cou",
+						"courseId"
+					],
+					[
+						"not",
+						"not-sel"
+					],
+					[
+						"selte",
+						"selected"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"nota",
+						"not-allowed"
+					],
+					[
+						"defa",
+						"default"
+					],
+					[
+						"cli",
+						"click"
+					],
+					[
+						"ha",
+						"hasClass"
+					],
+					[
+						"e",
+						"extend"
+					],
+					[
+						"on",
+						"onSelAfter"
+					],
+					[
+						"val",
+						"value"
+					],
+					[
+						"get",
+						"getFormData"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"rel",
+						"relative"
+					],
+					[
+						"rig",
+						"right"
+					],
+					[
+						"lh",
+						"line-height"
+					],
+					[
+						"selec",
+						"selected"
+					],
+					[
+						"min",
+						"mixin"
+					],
+					[
+						"conf",
+						"confirm"
+					],
+					[
+						"cu",
+						"cutStr"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"note",
+						"notelist"
 					],
 					[
 						"ov",
 						"overflow"
 					],
 					[
-						"op",
-						"opacity"
+						"ba",
+						"background"
+					],
+					[
+						"remo",
+						"remove"
+					],
+					[
+						"arr",
+						"arrVal"
+					],
+					[
+						"slide",
+						"slideUp"
+					],
+					[
+						"cl",
+						"click"
+					],
+					[
+						"remove",
+						"removeClass"
+					],
+					[
+						"ul",
+						"ul"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"po",
+						"pointer"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"no",
+						"none"
+					],
+					[
+						"foc",
+						"focus"
+					],
+					[
+						"cur",
+						"cursor"
 					],
 					[
 						"ri",
 						"right"
 					],
 					[
-						"pos",
-						"position"
+						"ac",
+						"active"
+					],
+					[
+						"fonst",
+						"font-style"
+					],
+					[
+						"abs",
+						"absolute"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"le",
+						"level"
+					],
+					[
+						"out",
+						"outline"
+					],
+					[
+						"teal",
+						"text-align"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"time",
+						"timeFuncs"
+					],
+					[
+						"playe",
+						"player"
+					],
+					[
+						"vi",
+						"video"
+					],
+					[
+						"zi",
+						"z-index"
+					],
+					[
+						"top",
+						"top	top"
+					],
+					[
+						"de",
+						"default"
+					],
+					[
+						"player",
+						"playerObj"
+					],
+					[
+						"arg",
+						"arguments"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"if",
+						"if	self-if"
 					],
 					[
 						"curr",
@@ -417,90 +1705,221 @@
 					[
 						"he",
 						"height"
-					],
-					[
-						"vis",
-						"visibility"
-					],
-					[
-						"vi",
-						"visibility"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/E/myGitHub/pages/TestMyTemplata.html",
+					"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/demo/message-center/send-mesage.html",
 					"settings":
 					{
-						"buffer_size": 1483,
+						"buffer_size": 10657,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/js/message-center/send-message.js",
+					"settings":
+					{
+						"buffer_size": 5057,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/wfdialog.js",
+					"settings":
+					{
+						"buffer_size": 5110,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/myGitHub/MyTemplate.js",
+					"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/css/customer-service-manage/page.scss",
 					"settings":
 					{
-						"buffer_size": 10821,
+						"buffer_size": 6273,
 						"line_ending": "Windows"
 					}
 				}
 			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"selected_items":
+			"build_system": "Packages/SASS Build/SASS - Compressed.sublime-build",
+			"build_system_choices":
+			[
 				[
 					[
-						"set java",
-						"Set Syntax: JavaScript"
+						[
+							"Packages/SASS Build/SASS - Compressed.sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS.sublime-build",
+							""
+						]
 					],
+					[
+						"Packages/SASS Build/SASS - Compressed.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "inp",
+				"selected_items":
+				[
 					[
 						"inp",
 						"Package Control: Install Package"
 					],
 					[
-						"insp",
+						"pacin",
 						"Package Control: Install Package"
 					],
 					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
+						"snif",
+						"Snippet: Function"
 					],
 					[
 						"set ja",
 						"Set Syntax: JavaScript"
 					],
 					[
-						"inpac",
+						"setjavas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set jav",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set jaas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ins",
 						"Package Control: Install Package"
 					],
 					[
-						"inpa",
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"set javs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set ",
+						"Set Syntax: HTML"
+					],
+					[
+						"in",
 						"Package Control: Install Package"
+					],
+					[
+						"inspac",
+						"Snippet: input - search"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"set htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"set sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"set java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set h",
+						"Set Syntax: HTML"
+					],
+					[
+						"set html",
+						"Set Syntax: HTML"
+					],
+					[
+						"set ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"seth",
+						"Set Syntax: HTML"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"set le",
+						"Set Syntax: LESS"
 					],
 					[
 						"inst",
 						"Package Control: Install Package"
 					],
 					[
-						"ins",
+						"remop",
+						"Package Control: Remove Package"
+					],
+					[
+						"insp",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ints",
+						"Package Control: Install Package"
+					],
+					[
+						"Install Package",
+						"Package Control: Install Package"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"st java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"inpa",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 512.0
+				"width": 472.0
 			},
 			"console":
 			{
-				"height": 126.0,
+				"height": 164.0,
 				"history":
 				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by).",
 					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
@@ -515,156 +1934,211 @@
 			},
 			"expanded_folders":
 			[
-				"/D/googledownload/artDialog-master/css",
-				"/D/googledownload/artDialog-master/dist",
-				"/D/googledownload/artDialog-master/doc/css",
-				"/D/googledownload/artDialog-master/doc/js",
-				"/E/myGitHub",
-				"/E/myGitHub/pages"
+				"/E/myCode",
+				"/E/myCode/study",
+				"/E/myCode/study/slidePage",
+				"/E/Work-XDF/code/static",
+				"/E/Work-XDF/code/static/common",
+				"/E/Work-XDF/code/static/common/backbone",
+				"/E/Work-XDF/code/static/common/validate",
+				"/E/Work-XDF/code/static/common/validate/js",
+				"/E/Work-XDF/code/static/project",
+				"/E/Work-XDF/code/static/project/cms-mix",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/message-center",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/json",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/json/ajax",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates"
 			],
 			"file_history":
 			[
-				"/D/googledownload/artDialog-master/css/ui-dialog.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/index.html",
-				"/D/googledownload/artDialog-master/dist/dialog-plus.js",
-				"/D/googledownload/artDialog-master/dist/dialog.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/content/js/dialog1.0/dialog1.0.js",
-				"/C/Users/jian.xiong/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/D/googledownload/artDialog-master/src/dialog-config.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/num/111806.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/webpage/xtj-vmware.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/huaxinguangdian-pc.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/huaxinguangdian-pc01.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/test/dialog.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/111806.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/haiyin-pc01.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/haiyin-pc.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/shinaide-pc.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/shinaide-pc01.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/vmware-pc.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/vmware-pc01.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/webpage/xtj-csot.css",
-				"/D/googledownload/artDialog-master/src/dialog-plus.js",
-				"/D/googledownload/artDialog-master/src/popup.js",
-				"/D/googledownload/artDialog-master/src/drag.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/content/css/dialog1.0.css",
-				"/D/googledownload/artDialog-master/src/dialog.js",
-				"/E/oldwork/AutoLayout20140529/AutoLayout/AutoLayout.Ui/Scripts/zepto.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/content/js/dialog1.0/dialog.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/100104.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/100103.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/111806.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/content/css/dialog.css",
-				"/E/MyCode/jsbook-master/data.xmind",
-				"/E/MyCode/study/css/reset.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/recommend-suc.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/recomm-error.css",
-				"/E/MyCode/jsbook-master/README.md",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102301-1.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102317.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/102301.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/open-packet.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/item.css",
-				"/E/MyCode/study/validate/form.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/edit.js",
-				"/E/MyCode/study/mtusir/node_modules/grunt-contrib-nodeunit/node_modules/nodeunit/node_modules/tap/test/independent-timeouts.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/i.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/send-step.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102301.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/num/103001.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/webpage/xtj-schneider-electric.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/content/js/slidepage/slidePage1.0.js",
-				"/C/Users/jian.xiong/Desktop/haha/js/pic360-1.0.0.js",
-				"/E/oldwork/AutoLayout20140529/AutoLayout/AutoLayout.Ui/Scripts/jquery-2.1.1.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/num/100101-new.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/mail_form.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/email-verify-suc.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/100101-new.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/100101-new.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/com/selectprofession.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102305.html",
-				"/C/Users/jian.xiong/Desktop/selectCity.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/content/js/zepto.js",
-				"/E/MyCode/test/zepto.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/num/100101.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/100101.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/com/basevalidaterule.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/100105.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/100104.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/102316.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/100103.js",
-				"/E/MyCode/test/myJs/utils.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/100105.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/num/100105.css",
-				"/E/MyCode/test/test/index.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/100108.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/num/103003.html",
-				"/C/Users/jian.xiong/Documents/Tencent Files/568915669/FileRecv/demo/index.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/mail_source.css",
-				"/E/Work/Code/assets/up/dj-mobile/nitpick/js/avatar.min.js",
-				"/E/Work/Code/assets/up/dj-mobile/nitpick/demo/avatar.html",
-				"/E/Work/Code/assets/up/dj-mobile/nitpick/js/avatar.js",
-				"/E/MyCode/jsbook-master/ch13io.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/two-phase/mail_form_suc.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/two-phase/mail_form_phone.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/email-verify-suc.html",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/mail_form.html",
-				"/E/Work/Code/Gruntfile.js",
-				"/E/Work/Code/package.json",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/082004.min.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/102301.min.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/js/num/100103.min.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/content/js/swipe.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/content/js/swipe.min.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/content/js/zepto.min.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/num/100101.min.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/num/100108.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/num/082002.min.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/num/082003.min.css",
-				"/E/MyCode/study/mtusir/Gruntfile.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/css/num/103003.css",
-				"/E/MyCode/study/slidePage/slidePage1.2.js",
-				"/E/Work/Code/assets/up/dj-mobile/nitpick/js/slider.js",
-				"/E/MyCode/test/js/selector.js",
-				"/E/MyCode/test/testzeptoevent.html",
-				"/E/MyCode/test/testAlbum.html",
-				"/E/MyCode/test/test.html",
-				"/E/MyCode/test/testAnimate.html",
-				"/E/MyCode/test/testMargin.html",
-				"/E/MyCode/test/m/css/common.css",
-				"/E/MyCode/test/testcenter.html",
-				"/E/MyCode/test/Testbackground-image.html",
-				"/C/Users/jian.xiong/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/D/googledownload/html5-boilerplate-4.3.0/css/main.css",
-				"/D/googledownload/html5-boilerplate-4.3.0/css/normalize.css",
-				"/E/MyCode/test/m/css/reset.css",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/content/css/reset.css",
-				"/E/MyCode/test/js/ajax.js",
-				"/E/MyCode/test/testMediaQuery.html",
-				"/E/MyCode/test/myJs/form.js",
-				"/E/MyCode/test/myJs/inputSuggest.js",
-				"/E/MyCode/test/myJs/MyTemplate.js",
-				"/E/oldwork/AutoLayout20140529/AutoLayout/AutoLayout.Ui/js/ui/core.js",
-				"/E/MyCode/study/validate/validate.js",
-				"/E/MyCode/test/myJs/webseat.common.js",
-				"/E/MyCode/test/myJs/webseat.core.js",
-				"/E/MyCode/test/myJs/webseat.core-new.js",
-				"/E/oldwork/AutoLayout20140529/AutoLayout/AutoLayout.Ui/js/common/utils.js",
-				"/E/Work/Code/assets/up/dj-mobile/pushover/include/_fileNav.html",
-				"/E/MyCode/study/validate/index.html"
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/audit/audit.js",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tuike-shenhe.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tuike-caiwushenhe.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tixian-daiban-kefu.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tixian-daiban-caiwuzongjian.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tixian-daiban-caiwuqueren.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/chonogzhi-kufu.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/chongzhi-kefuzongjian.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/chongzhi-caiwu.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/audit/returnDialog/dialog.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/audit/submitDialog/dialog.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/mission-center/live/todo.html",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/js.tmpl",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/message-center/product-list.tpl",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/message-center/user-list.tpl",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/validateLength.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/applation-withdrawals.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/message-center/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/turnpage.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/json/send-message/user-list.php",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/json/send-message/product-list.php",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/selectAll.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/wfdialog.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/customer-service-manage/page.css",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-pay.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-course.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-pay.js",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/slidePage/testPage/testFullPage.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/bootstrap-datepicker/datapicker.js",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/slidePage/testPage/test-main.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/bootstrap-datepicker/demo.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/finance-yuetongji.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/i.html",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/slidePage/testPage/slidepage2.0.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/_dialog-return.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/json/buy/course.php",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-course.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/customer-service-manage/page.scss",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/finance/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/finance-jioayirizi.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/finance-shourutongji.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/finance-xiaoshoutongji.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/message-center/msg-manage.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/mission-center/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/withdrawals-applation.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/recharge-application.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/application-recharge.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/batch-list.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/getAndJump.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/extendValidate.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/common.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/chongzhi-yiban.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tuike-kefu.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tixian-yiban.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tuike-yiban.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/customer-refund.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/view-tixian.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/cms-dialog/cms-dialog.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/daiban.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/_dialog.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/applation-customer-refund.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/mission-center/course/todo.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/course/edit.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/slideUpOrDown.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/view-chongzhi.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/view-tuikuan.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/customer-refund.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/recharge-application.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/view-shenqingtuikuan.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/withdrawals-applation.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/json/ajax/submit.php",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/json/ajax/json.php",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/extendValidate.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/audit/audit.css",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/dialog/xdfDialog.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/common-dialog.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/dialog/dialog.scss",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/path/path.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/form/form.css",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/user-account-query/page.scss",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/course-list-update/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/course/list-update.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/course-list-update/page.scss",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/course-list-update/page.css",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/live-product.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/user-account-query/page.css",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/path/path.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/course-list/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/course/list.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/course-list/moveDialog/dialog.js",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/html.tmpl",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/css.tmpl",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/page.js",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default.sublime-commands",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Main.sublime-menu",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/user-account-query/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/learn-progess-detail.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/申请退款客服.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/paid.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/file-upload/uploadify.css",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register.tpl",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/validate-cfg.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/user/login-register-demo.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register-logic.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-live.js",
+				"/E/Work-dajie/Code/assets/up/dj-mobile/pushover/demo/num/111806.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/user/my-order.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/user/user-common.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/common/build-page-turn/css/paging.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/my-order-all.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/user/user-common.css",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/use-proportions.html",
+				"/E/Work-XDF/code/static/common/validate/js/method-ajax.js",
+				"/E/Work-XDF/code/static/common/validate/js/jquery.validate.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/common/tab-switch.js",
+				"/E/Work-XDF/code/static/common/validate/validate.js",
+				"/E/Work-dajie/Code/assets/up/dj-mobile/pushover/lib/validate.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-recharge.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-recharge.js"
 			],
 			"find":
 			{
-				"height": 37.0
+				"height": 40.0
 			},
 			"find_in_files":
 			{
 				"height": 99.0,
 				"where_history":
 				[
-					"E:\\Work\\Code\\assets\\up\\dj-mobile\\pushover\\css",
-					"E:\\Work\\Code\\assets\\up\\dj-mobile\\nitpick",
-					"E:\\Work\\Code\\assets\\up\\dj-mobile\\pushover\\demo"
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo\\customer-service-manage",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js\\customer-service-manage",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo\\customer-service-manage",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo\\user-account-query",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js\\buy",
+					"E:\\Work-dongfangwendao\\WebSeatFlipCourse\\Admin\\Trunk\\WebSeat.FlipCourse.Presentation.Web",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css\\common",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css\\buy",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x",
+					"E:\\Work-dajie\\Code\\assets\\up\\dj-mobile\\pushover",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap",
+					"E:\\myCode\\study\\sass\\mixins",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
+					"E:\\Work-XDF\\player\\svn\\jplayer-new00\\skin",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
+					"E:\\myCode\\study\\sass\\mixins",
+					"E:\\Work-dajie\\Code\\assets\\up\\dj-mobile\\pushover\\css\\2015",
+					"E:\\myCode\\study\\sass\\mixins",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
+					"E:\\Work-XDF\\code\\static\\framework",
+					"E:\\Work-XDF\\code\\static",
+					"E:\\Work-XDF\\code\\static\\project\\setting\\1.0",
+					"E:\\MyCode-download\\jPlayer-2.9.2",
+					"E:\\Work-dajie\\zip\\MySublimePackage",
+					"C:\\Users\\xiongjian.KOOLEARN-INC\\AppData\\Roaming\\Sublime Text 3",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap"
 				]
 			},
 			"find_state":
@@ -672,123 +2146,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"__dispatchEvent",
-					"ededed",
-					"center",
-					".__center",
-					"reset",
-					"Lock",
-					"lock",
-					"quickClose",
-					"getAnimateEnd",
-					"emptyFunc",
-					"function() {}",
-					"emptyFunc",
-					"function() {}",
-					"jp-code-wrap",
-					"dj-res-tip-layer",
+					"wfdialog",
+					"getReturnData",
+					"getSubmitData",
+					"processReturn",
+					"returnDialog",
+					"checkbox",
+					"nmae",
+					"wf",
+					"btn",
+					"，",
+					"teach",
+					"\"xx\"",
+					"xxx",
+					"xx",
+					"userId",
+					"\"xx\"",
+					"productName",
+					"produceCode",
+					"productId",
+					"jp-product",
+					"jp-submit",
+					"this",
+					"jquery",
+					"validateLength",
+					"$form",
+					"th",
+					"jp-product-lsit",
+					"tran-type",
+					"class=\"i-w150\"",
+					"jquery",
+					"active: 'xx'",
+					"active: 'xx',",
+					"readonly=\"readonly\"",
+					"resetOrderStatus",
+					"getDataAndRender",
+					"updateCourseList",
+					"getDataAndRender",
+					"dialog",
+					"Dialog",
+					"dialog",
+					"rdata",
+					"true",
+					"finance",
+					"w150",
+					"op",
+					"操作",
+					"op",
+					"opr",
+					"bootstrap-datepicker",
+					"jquery",
+					"i-pt20",
+					"class=\"\"",
+					"mr100",
+					"data-ispreventdefault=\"\"",
+					"extendValidate",
+					"jquery",
+					"th",
+					"class=\"lh40\"",
+					"for=\"\"",
+					"jquery",
+					"for=\"\"",
+					"slideUpOrDown",
+					"wfdialog",
+					"slideUpOrDown",
+					"wfdialog",
+					"daiban",
+					"submitBtn",
+					"dialog",
+					"returnDialog",
+					"suggestion",
+					"withdrawals-applation",
+					"audit",
+					"returnDialog",
+					"50",
+					"dl",
+					"customer-refund",
+					"readonly",
+					"class=\"i-tc\"",
+					"提现说明：",
 					";\n",
-					"clsPast",
-					"codePast",
-					"$dom",
-					"jp-get-code",
-					"$dom",
-					"showError",
-					"op-tip-bg",
-					" \n",
-					"setUrlParam",
-					"validateMobileIsExisit",
-					"event",
-					"pc-step3-footer",
-					".pc-step3-footer",
-					"shinaide-phone",
-					"current",
-					"active",
-					";\n",
-					"text",
-					"nodes",
-					"methodAttributes",
-					"showTip",
-					">\n",
-					"<<em",
-					"<<i>",
-					"</a>",
-					"@2x",
-					">li",
-					"</li>",
-					"<li",
-					"<a href=\"javascript:\"",
-					"<li ",
-					"bigbackground",
-					"1970",
-					"2037",
-					"2038",
-					"free",
-					"ww",
-					"$win",
-					"ww",
-					"wh",
-					"clientWidth",
-					"max",
-					"reason",
+					"span",
+					"wc150",
+					"class=\"i-tc\"",
+					"./shuati/grading",
+					"lh1",
+					"lh",
+					"fscolor",
+					"878e99",
+					"confirm",
+					"ook",
+					"confirm",
+					"submitDialogFn",
+					"processSubmit",
+					"submit",
+					"ignore",
+					"recharge-application",
+					"x",
+					"w90",
+					"{jqeyr}",
+					"hello",
+					"${hello}",
+					"customer-service-manage",
+					"td",
+					"{\n                    isIcon: false,\n                    time: 1000\n                }",
+					"getFormData",
+					"i-cms-btn",
+					"form-input",
+					"i-select",
+					"i-cms-teacher-dialog",
+					".i-cms-teacher-dialog",
+					"order-detail",
+					"gray",
+					"openNewTab",
+					"jquery",
 					"$",
-					"script",
-					"avatar",
-					"../num/",
-					"hasOwn",
-					"xtjdircss",
-					"moveEnd",
-					"resetPos",
-					"endCallBack",
-					"limit",
-					"complete",
-					"bindEvent",
-					"showNum",
-					"jsonpID",
-					"cssNumber",
-					"methodAttributes",
-					"funcArg",
-					"propMap",
-					"uuid",
-					"empty",
-					"propMap",
-					"listData",
-					"callback",
-					"async",
-					"    $.fn.validate = function() {\n",
-					"errorNum",
-					"ajaxValidate",
-					"AjaxValidate",
-					"ajaxValidate",
-					"regAjaxValidate",
-					"getPageData",
-					"iAlert",
-					"getTranslateDis",
-					"notLastPageCallBack",
-					"手机号已被占用",
-					"parent",
-					"version",
-					"XDebug",
-					"任职",
-					"请选择任职时间",
-					"images",
-					"wrap-swipe",
-					"intention",
-					"http://testb2.xtj.t.dajie.com/wx/xtj/26/candidate/intention",
-					"http://testb2.xtj.t.dajie.com/wx/xtj/26/candidate/intention\n",
-					"content",
-					"slidePage1.2",
-					"slidePage1.1",
-					"slidePage1.0",
-					"LastPageCallBack",
-					"lastPageCallBack",
-					"LastPageCallBack",
-					"lastPageCallBack",
-					"reindent",
-					"wrapEl",
-					"getTranslateDis",
-					"departments",
-					"beforesend"
+					"user-account-query",
+					"div",
+					"tr",
+					"class=\"w150\"",
+					"w200",
+					"th",
+					">\n",
+					"small",
+					"c50000",
+					"8697b1",
+					"order",
+					"error",
+					"btn"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -796,19 +2281,129 @@
 				"regex": false,
 				"replace_history":
 				[
-					"/up/dj-mobile/pushover/lib/jqueryui/themes/base/images"
 				],
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
-				"whole_word": true,
+				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "E:\\MyCode-download\\bootstrap-sass-master"
+				},
+				{
+					"path": "E:\\myCode"
+				},
+				{
+					"path": "E:\\Work-dajie\\Code\\assets\\up\\dj-mobile\\pushover"
+				},
+				{
+					"path": "E:\\MyCode-download\\form-master"
+				},
+				{
+					"path": "E:\\Work-XDF\\code\\static"
+				},
+				{
+					"path": "C:\\Users\\xiongjian.KOOLEARN-INC\\AppData\\Roaming\\Sublime Text 3\\Packages\\SublimeTmpl\\templates"
+				}
+			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/demo/message-center/send-mesage.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10657,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8758,
+										8758
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3000.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
 					]
 				},
 				{
@@ -816,109 +2411,20 @@
 					"sheets":
 					[
 						{
-							"buffer": 0,
-							"file": "/E/myGitHub/pages/TestMyTemplata.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1483,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										316,
-										316
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
 							"buffer": 1,
-							"file": "/E/myGitHub/MyTemplate.js",
+							"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/js/message-center/send-message.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 10821,
+								"buffer_size": 5057,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1549,
-										1549
+										3823,
+										3823
 									]
 								],
 								"settings":
@@ -931,16 +2437,21 @@
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
@@ -956,21 +2467,6 @@
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
@@ -980,17 +2476,205 @@
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
-										"bh_square_content"
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 7245.0,
+								"translation.y": 1020.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/wfdialog.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5110,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2326,
+										2326
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 900.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/css/customer-service-manage/page.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6273,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										501,
+										501
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 240.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -998,11 +2682,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 40.0
 			},
 			"input":
 			{
-				"height": 37.0
+				"height": 52.0
 			},
 			"layout":
 			{
@@ -1024,7 +2708,7 @@
 				"cols":
 				[
 					0.0,
-					0.376163665986,
+					0.416452656008,
 					1.0
 				],
 				"rows":
@@ -1034,209 +2718,363 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 418.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"output.xdebug":
-			{
-				"height": 0.0
-			},
-			"position": "0,2,3,-1,-1,-1,-1,573,1138,35,1794",
-			"project": "phpdebug.sublime-project",
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,1248,49,148,1761",
+			"project": "",
 			"replace":
 			{
-				"height": 68.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"common/audit/audit.js",
+						"static\\project\\cms-mix\\1.x\\common\\audit\\audit.js"
+					],
+					[
+						"mission-center/live/todo.html",
+						"static\\project\\cms-mix\\1.x\\demo\\mission-center\\live\\todo.html"
+					],
+					[
+						"message-center/send-mesage.html",
+						"static\\project\\cms-mix\\1.x\\demo\\message-center\\send-mesage.html"
+					],
+					[
+						"customer-service-manage/page.css",
+						"static\\project\\cms-mix\\1.x\\css\\customer-service-manage\\page.css"
+					],
+					[
+						"customer-service-manage/applation-withdrawals.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\applation-withdrawals.html"
+					],
+					[
+						"message-center/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\message-center\\page.js"
+					],
+					[
+						"customer-service-manage/chongzhi-caiwu.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\chongzhi-caiwu.html"
+					],
+					[
+						"customer-service-manage/finance-yuetongji.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\finance-yuetongji.html"
+					],
+					[
+						"1.x/js/buy/buy-course.js",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-course.js"
+					],
+					[
+						"buy/buy-course.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-course.html"
+					],
+					[
+						"order/batch-list.html",
+						"static\\project\\cms-mix\\1.x\\demo\\order\\batch-list.html"
+					],
+					[
+						"customer-refund.js",
+						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\customer-refund.js"
+					],
+					[
+						"mission-center/course/todo.html",
+						"static\\project\\cms-mix\\1.x\\demo\\mission-center\\course\\todo.html"
+					],
+					[
+						"submitdialog/dialog",
+						"static\\project\\cms-mix\\1.x\\common\\audit\\submitDialog\\dialog.js"
+					],
+					[
+						"audit.css",
+						"static\\project\\cms-mix\\1.x\\common\\audit\\audit.css"
+					],
+					[
+						"audit/audit.js",
+						"static\\project\\cms-mix\\1.x\\common\\audit\\audit.js"
+					],
+					[
+						"order/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\order\\page.js"
+					],
+					[
+						"css/course-list-update/page.css",
+						"static\\project\\cms-mix\\1.x\\css\\course-list-update\\page.css"
+					],
+					[
+						"demo/course/list-update.html",
+						"static\\project\\cms-mix\\1.x\\demo\\course\\list-update.html"
+					],
+					[
+						"course-list-update/page.css",
+						"static\\project\\cms-mix\\1.x\\css\\course-list-update\\page.css"
+					],
+					[
+						"course/list-update.html",
+						"static\\project\\cms-mix\\1.x\\demo\\course\\list-update.html"
+					],
+					[
+						"course-list-update/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\course-list-update\\page.js"
+					],
+					[
+						"user-account-query/page.css",
+						"static\\project\\cms-mix\\1.x\\css\\user-account-query\\page.css"
+					],
+					[
+						"live-product.html",
+						"static\\project\\cms-mix\\1.x\\demo\\user-account-query\\live-product.html"
+					],
+					[
+						"/path/path.js",
+						"static\\project\\cms-mix\\1.x\\js\\path\\path.js"
+					],
+					[
+						"path/path.html",
+						"static\\project\\cms-mix\\1.x\\demo\\path\\path.html"
+					],
+					[
+						"movedialog/dialog",
+						"static\\project\\cms-mix\\1.x\\js\\course-list\\moveDialog\\dialog.js"
+					],
+					[
+						"1.x/js/course-list/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\course-list\\page.js"
+					],
+					[
+						"demo/course/list.html",
+						"static\\project\\cms-mix\\1.x\\demo\\course\\list.html"
+					],
+					[
+						"customer-service-manage/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\page.js"
+					],
+					[
+						"course-list/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\course-list\\page.js"
+					],
+					[
+						"learn-progess-detail.html",
+						"static\\project\\cms-mix\\1.x\\demo\\user-account-query\\learn-progess-detail.html"
+					],
+					[
+						"order/paid.html",
+						"static\\project\\cms-mix\\1.x\\demo\\order\\paid.html"
+					],
+					[
+						"login-register-demo.js",
+						"static\\project\\teach\\1.x\\js\\user\\login-register-demo.js"
+					],
 					[
 						"111806",
 						"pushover\\demo\\num\\111806.html"
 					],
 					[
-						"dialog1",
-						"pushover\\content\\css\\dialog1.0.css"
+						"user-common.css",
+						"static\\project\\teach\\1.x\\css\\user\\user-common.css"
 					],
 					[
-						"100104.js",
-						"pushover\\js\\num\\100104.js"
+						"my-order",
+						"static\\project\\teach\\1.x\\css\\user\\my-order.scss"
 					],
 					[
-						"100103.html",
-						"pushover\\demo\\num\\100103.html"
+						"/user/my-order-all.html",
+						"static\\project\\teach\\1.x\\demo\\user\\my-order-all.html"
 					],
 					[
-						"dia",
-						"pushover\\content\\js\\dialog1.0\\dialog.js"
+						"user-account-query/use-proportions.html",
+						"static\\project\\cms-mix\\1.x\\demo\\user-account-query\\use-proportions.html"
 					],
 					[
-						"rese",
-						"study\\css\\reset.css"
+						"js/common/tab-switch",
+						"static\\project\\teach\\1.x\\js\\common\\tab-switch.js"
 					],
 					[
-						"item",
-						"pushover\\css\\item.css"
+						"validate",
+						"pushover\\lib\\validate.js"
 					],
 					[
-						"mailfo",
-						"pushover\\js\\mail_form.js"
+						"user/user-common.css",
+						"static\\project\\teach\\1.x\\css\\user\\user-common.css"
 					],
 					[
-						"xtj-schneider-electric.css",
-						"pushover\\css\\webpage\\xtj-schneider-electric.css"
+						"user/my-order",
+						"static\\project\\teach\\1.x\\css\\user\\my-order.scss"
 					],
 					[
-						"102317.html",
-						"pushover\\demo\\num\\102317.html"
+						"buy-re",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-recharge.js"
 					],
 					[
-						"100101-new.css",
-						"pushover\\css\\num\\100101-new.css"
+						"glo",
+						"static\\framework\\global.html"
 					],
 					[
-						"100101-new.html",
-						"pushover\\demo\\num\\100101-new.html"
+						"g",
+						"static\\framework\\global.html"
 					],
 					[
-						"100101-new",
-						"pushover\\js\\num\\100101-new.js"
+						"/fileupload/demo.html",
+						"myCode\\myTest\\fileUpload\\demo.html"
 					],
 					[
-						"102301.js",
-						"pushover\\js\\num\\102301.js"
+						"course.php",
+						"static\\project\\teach\\1.x\\json\\buy\\course.php"
 					],
 					[
-						"102305.html",
-						"pushover\\demo\\num\\102305.html"
+						"buy-course",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-course.html"
 					],
 					[
-						"100101",
-						"pushover\\css\\num\\100101.css"
+						"user/dialog-login.html",
+						"static\\project\\teach\\1.x\\demo\\user\\dialog-login.html"
 					],
 					[
-						"100101.js",
-						"pushover\\js\\num\\100101.js"
+						"/framework/global.html",
+						"static\\framework\\global.html"
 					],
 					[
-						"100101.css",
-						"pushover\\css\\num\\100101.css"
+						"buy/buy-pay.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-pay.html"
 					],
 					[
-						"basevalidaterule.js",
-						"pushover\\js\\com\\basevalidaterule.js"
+						"safety/page.js",
+						"static\\project\\setting\\1.0\\js\\safety\\page.js"
 					],
 					[
-						"100104.html",
-						"pushover\\demo\\num\\100104.html"
+						"demo/safety.html",
+						"static\\project\\setting\\1.0\\demo\\safety.html"
 					],
 					[
-						"102301",
-						"pushover\\demo\\num\\102301.html"
+						"pay.htm",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-pay.html"
 					],
 					[
-						"100105",
-						"pushover\\js\\num\\100105.js"
+						"user-account-query/user-login.html",
+						"static\\project\\cms-mix\\1.x\\demo\\user-account-query\\user-login.html"
 					],
 					[
-						"100103.js",
-						"pushover\\js\\num\\100103.js"
+						"js/buy/buy-live.js",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-live.js"
 					],
 					[
-						"mails",
-						"pushover\\css\\mail_source.css"
+						"buy/buy-live.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-live.html"
 					],
 					[
-						"mailf",
-						"pushover\\js\\mail_form.js"
+						"buy-success.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-success.html"
 					],
 					[
-						"mail_form.js",
-						"pushover\\js\\mail_form.js"
+						"buy/buy-recharge.js",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-recharge.js"
 					],
 					[
-						"102316.html",
-						"pushover\\demo\\num\\102316.html"
+						"buy/buy-recharge.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-recharge.html"
 					],
 					[
-						"100303",
-						"pushover\\demo\\num\\103003.html"
+						"css/path/page.css",
+						"static\\project\\cms-mix\\1.x\\css\\path\\page.css"
 					],
 					[
-						"100103",
-						"pushover\\js\\num\\100103.js"
+						"js/path/path.js",
+						"static\\project\\cms-mix\\1.x\\js\\path\\path.js"
 					],
 					[
-						"082020.css",
-						"pushover\\css\\num\\082020.css"
+						"demo/path/path.html",
+						"static\\project\\cms-mix\\1.x\\demo\\path\\path.html"
 					],
 					[
-						"082020.html",
-						"pushover\\demo\\num\\082020.html"
+						"live-course/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\live-course\\page.js"
 					],
 					[
-						"102301h",
-						"pushover\\demo\\num\\102301.html"
+						"live-course/edit.html",
+						"static\\project\\cms-mix\\1.x\\demo\\live-course\\edit.html"
 					],
 					[
-						"082020",
-						"pushover\\css\\num\\082020.css"
+						"user/my-order-all.js",
+						"static\\project\\teach\\1.x\\js\\user\\my-order-all.js"
 					],
 					[
-						"base.js",
-						"pushover\\js\\base.js"
+						"my-order-all.html",
+						"static\\project\\teach\\1.x\\demo\\user\\my-order-all.html"
 					],
 					[
-						"matchbox.css",
-						"pushover\\lib\\matchbox\\matchbox.css"
+						"my-order-all.js",
+						"static\\project\\teach\\1.x\\js\\user\\my-order-all.js"
 					],
 					[
-						"edit",
-						"pushover\\js\\edit.js"
+						"1.x/demo/i.html",
+						"static\\project\\cms-mix\\1.x\\demo\\i.html"
 					],
 					[
-						"two-p/index",
-						"pushover\\demo\\two-phase\\index.html"
+						"product-manage-edit/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\product-manage-edit\\page.js"
 					],
 					[
-						"huntjob",
-						"pushover\\demo\\two-phase\\hunter-jobs.html"
+						"product-manage/edit.html",
+						"static\\project\\cms-mix\\1.x\\demo\\product-manage\\edit.html"
 					],
 					[
-						"hunt",
-						"pushover\\css\\hunter-jobs.css"
+						"/js/live/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\live\\page.js"
 					],
 					[
-						"_headernojs.html",
-						"pushover\\include\\_headerNoJs.html"
+						"live/live-edit.html",
+						"static\\project\\cms-mix\\1.x\\demo\\live\\live-edit.html"
 					],
 					[
-						"10231",
-						"pushover\\demo\\num\\102317.html"
+						"product-manage/list.html",
+						"static\\project\\cms-mix\\1.x\\demo\\product-manage\\list.html"
 					],
 					[
-						"huntjo",
-						"pushover\\demo\\two-phase\\hunter-jobs.html"
+						"buy-recharge.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-recharge.html"
 					],
 					[
-						"102301.html",
-						"pushover\\demo\\num\\102301.html"
+						"table/demo/demo.html",
+						"static\\framework\\css\\shark\\ext\\table\\demo\\demo.html"
 					],
 					[
-						"hunter-jobs.js",
-						"pushover\\js\\hunter-jobs.js"
+						"lesson-list.js",
+						"static\\project\\teach\\1.x\\js\\lesson-list\\lesson-list.js"
 					],
 					[
-						"hunter-jobs.html",
-						"pushover\\demo\\two-phase\\hunter-jobs.html"
+						"lesson-list.html",
+						"static\\project\\teach\\1.x\\demo\\lesson-list.html"
+					],
+					[
+						"safety.html",
+						"static\\project\\setting\\1.0\\demo\\safety.html"
+					],
+					[
+						"vendor-pre",
+						"bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins\\_vendor-prefixes.scss"
+					],
+					[
+						"global.html",
+						"static\\framework\\global.html"
 					],
 					[
 						"mialfor",
 						"pushover\\js\\mail_form.js"
+					],
+					[
+						"102301",
+						"pushover\\js\\num\\102301.js"
 					],
 					[
 						"mail",
@@ -1247,8 +3085,16 @@
 						"pushover\\js\\num\\102301.js"
 					],
 					[
+						"mailfo",
+						"pushover\\js\\mail_form.js"
+					],
+					[
 						"102317",
 						"pushover\\demo\\num\\102317.html"
+					],
+					[
+						"10231",
+						"pushover\\demo\\num\\102316.html"
 					],
 					[
 						"102304.html",
@@ -1264,6 +3110,7 @@
 			"select_project":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1272,72 +3119,27 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
 				"width": 0.0
 			},
-			"selected_group": 1,
+			"selected_group": 0,
 			"settings":
 			{
-				"xdebug":
-				{
-					"hide_conflict": false,
-					"restore_index":
-					{
-						"43":
-						{
-							"group": 0,
-							"index": 0
-						},
-						"44":
-						{
-							"group": 0,
-							"index": 1
-						}
-					},
-					"restore_layout":
-					{
-						"cells":
-						[
-							[
-								0,
-								0,
-								1,
-								1
-							],
-							[
-								1,
-								0,
-								2,
-								1
-							]
-						],
-						"cols":
-						[
-							0.0,
-							0.5,
-							1.0
-						],
-						"rows":
-						[
-							0.0,
-							1.0
-						]
-					}
-				}
 			},
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 265.0,
+			"side_bar_width": 232.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
-			"workspace_name": "/E/MyCode/test/test/phpdebug.sublime-workspace"
+			"window_id": 3,
+			"workspace_name": ""
 		}
 	],
 	"workspaces":

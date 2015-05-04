@@ -1,8 +1,37 @@
-/**
- * ${1:}
- * @authors ${author} (${email})
- * @date    ${date}
- * @version \$Id\$
- */
+/* @grunt-build */
 
-$0
+/**
+ * author xj
+ * @date    ${date}
+ *
+ */
+define(function(require, exports, module) {
+    var app = {},
+        options = {};
+    jquery.extend(app, {
+        init: function(opts) {
+            var self = app;
+            this.opts = jquery.extend({}, options, opts || {});
+
+            return self.initView().initEvent();
+        },
+        initView: function() {
+            var self = this;
+            jquery.each({
+
+            }, function(key, sel) {
+                self[key] = jquery(sel);
+            });
+
+            return this;
+        },
+        initEvent: function() {
+            var self = this;
+
+            return this;
+        }
+    });
+    return function(args) {
+        app.init(args);
+    }
+});
