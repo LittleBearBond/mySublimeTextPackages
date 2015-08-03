@@ -1,3 +1,6 @@
 [
-	{"keys": ["ctrl+alt+shift+f"], "command": "reindent" , "args": {"single_line": false}}
+	{"keys": ["ctrl+alt+shift+f"], "command": "reindent" , "args": {"single_line": false}},
+    {"keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
+    //修改默认只能提示快捷键
+    { "keys": ["alt+space"], "command": "auto_complete" },
 ]

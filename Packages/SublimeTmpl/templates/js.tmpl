@@ -1,37 +1,61 @@
 /* @grunt-build */
 
 /**
- * author xj
- * @date    ${date}
- *
+ * author           xj
+ * @date            ${date}
+ * @email           xj_bond@live.com
+ * @description
  */
-define(function(require, exports, module) {
+define(function (require, exports, module) {
     var app = {},
+        //default setting
         options = {};
-    jquery.extend(app, {
-        init: function(opts) {
+    \$.extend(app, {
+        init: function (opts) {
             var self = app;
-            this.opts = jquery.extend({}, options, opts || {});
+            this.opts = \$.extend(true, {}, options, opts || {});
 
             return self.initView().initEvent();
         },
-        initView: function() {
+        initView: function () {
             var self = this;
-            jquery.each({
+            \$.each({
 
-            }, function(key, sel) {
-                self[key] = jquery(sel);
+            }, function (key, sel) {
+                self[key] = \$(sel);
             });
 
             return this;
         },
-        initEvent: function() {
+        initEvent: function () {
             var self = this;
 
+            this.bindEvent([{
+                el: '',
+                de: '',
+                type: '',
+                fn: ''
+            }]);
+
             return this;
+        },
+        bindEvent: function (data, obj) {
+            var self = obj || this;
+            \$.isArray(data) && data.length && \$.each(data, function (index, item) {
+                var itemEl = item['el'],
+                    itemFn = item['fn'],
+                    itemDe = item['de'],
+                    itemType = item['type'];
+                //取得el
+                var \$el = \$.type(itemEl) === 'string' ? self[itemEl] : itemEl;
+                //取得fn
+                var fn = \$.isFunction(itemFn) ? itemFn : \$.proxy(self[itemFn], self || this);
+                //绑定事件，直接绑定和委托绑定
+                \$el && \$el.length && \$.isFunction(fn) && (!!itemDe ? \$el.on(itemType, itemDe, fn) : \$el.on(itemType, fn));
+            });
         }
     });
-    return function(args) {
+    return function (args) {
         app.init(args);
     }
 });

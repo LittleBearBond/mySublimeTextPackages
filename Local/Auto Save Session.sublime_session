@@ -1,6 +1,28 @@
 {
 	"folder_history":
 	[
+		"/E/Work-XDF/demo",
+		"/E/MyCode-download/requirejs-master",
+		"/E/MyCode-download/seajs-master",
+		"/E/Work-XDF/merge-svn",
+		"/E/Work-XDF/cms-svn",
+		"/C/Users/xiongjian.KOOLEARN-INC/Desktop/MODULE/demo",
+		"/E/Work-XDF/cms-nodejs",
+		"/E/MyFiles/js-high/qa",
+		"/E/Work-XDF/cms-nodejs-code",
+		"/E/MyCode-download/artDialog-master",
+		"/E/MyCode-download/201412031808",
+		"/C/Users/xiongjian.KOOLEARN-INC/Desktop/20150618",
+		"/C/Users/xiongjian.KOOLEARN-INC/Desktop/test",
+		"/E/MyCode-download/react-0.13.0",
+		"/E/MyCode-download/react-demos-master",
+		"/E/Work-dajie/Code/assets/up/tusi",
+		"/E/myCode",
+		"/C/Users/xiongjian.KOOLEARN-INC/Desktop/learn",
+		"/E/MyCode-download/content-big-round-shade-show",
+		"/E/Work-XDF/player/svn/jplayer-new00",
+		"/D/googledownload/webuploader-master",
+		"/D/googledownload/webuploader-0.1.5",
 		"/C/Users/xiongjian.KOOLEARN-INC/Desktop/slidePage",
 		"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates",
 		"/E/Work-dongfangwendao/WebSeatFlipCourse/Admin/Trunk/WebSeat.FlipCourse.Presentation.Web",
@@ -8,14 +30,11 @@
 		"/E/Work-dongfangwendao/WebSeatB2C-WEB/WebSeat.B2C.WebPresentation",
 		"/E/Work-dongfangwendao/WebSeatFlipCourse/WebSeat.FlipCourse.Presentation.Web",
 		"/E/MyCode-download/form-master",
-		"/E/Work-dajie/Code/assets/up/tusi",
 		"/E/MyCode-download/bootstrap-3.3.4",
-		"/E/Work-XDF/player/svn/jplayer-new00",
 		"/E/Work-dajie/Code/assets/up/dj-mobile/pushover",
 		"/E/MyCode-download/jPlayer-2.9.2",
 		"/E/Work-dajie/zip/MySublimePackage",
 		"/E/Work-XDF/player/jsplayer",
-		"/E/myCode",
 		"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3",
 		"/E/MyCode/myTest/Sass",
 		"/E/MyCode",
@@ -35,11 +54,11 @@
 		"/E/MyCode/jsbook-master"
 	],
 	"last_version": 3083,
-	"last_window_id": 9,
+	"last_window_id": 24,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 804.0,
+		"new_window_height": 733.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -47,1180 +66,508 @@
 				"selected_items":
 				[
 					[
-						"re",
-						"require"
+						"remove",
+						"removeEventListener	(utils.js)"
 					],
 					[
-						"my",
-						"my-clearfix"
+						"add",
+						"addEventListener"
 					],
 					[
-						"type",
-						"typeof"
-					],
-					[
-						"sel",
-						"self"
-					],
-					[
-						"ds",
-						"disable"
-					],
-					[
-						"inl",
-						"inline-block"
-					],
-					[
-						"inli",
-						"inline"
-					],
-					[
-						"box",
-						"box-shadow"
-					],
-					[
-						"dis",
-						"disabled	Attr"
-					],
-					[
-						"la",
-						"label"
-					],
-					[
-						"fons",
-						"font-style"
-					],
-					[
-						"http",
-						"http://58.123.102.108"
-					],
-					[
-						"upload",
-						"uploadify"
-					],
-					[
-						"init",
-						"initEvent"
-					],
-					[
-						"num",
-						"num"
-					],
-					[
-						"page",
-						"pager"
-					],
-					[
-						"to",
-						"totalMoney"
-					],
-					[
-						"che",
-						"checked"
-					],
-					[
-						"root",
-						"rootText"
-					],
-					[
-						"opts",
-						"options"
-					],
-					[
-						"now",
-						"nowrap"
-					],
-					[
-						"fonts",
-						"font-size"
-					],
-					[
-						"ini",
-						"init"
-					],
-					[
-						"isF",
-						"isFunction"
-					],
-					[
-						"order",
-						"orderId"
-					],
-					[
-						"sub",
-						"submit"
+						"quer",
+						"querySelector"
 					],
 					[
 						"doc",
 						"document"
 					],
 					[
-						"appe",
-						"appendTo"
+						"for",
+						"for	self-for"
 					],
 					[
-						"clea",
-						"clearTimeout"
-					],
-					[
-						"data",
-						"data"
-					],
-					[
-						"clo",
-						"colspan	Attr"
-					],
-					[
-						"wrap",
-						"wrap-content"
-					],
-					[
-						"se",
-						"selected"
-					],
-					[
-						"disa",
-						"disabled"
-					],
-					[
-						"vis",
-						"visibility"
-					],
-					[
-						"visi",
-						"visibility"
-					],
-					[
-						"inc",
-						"include"
-					],
-					[
-						"hid",
-						"hide"
-					],
-					[
-						"in",
-						"index"
-					],
-					[
-						"cou",
-						"courseId"
-					],
-					[
-						"not",
-						"not-sel"
-					],
-					[
-						"selte",
-						"selected"
-					],
-					[
-						"len",
-						"length"
-					],
-					[
-						"nota",
-						"not-allowed"
-					],
-					[
-						"defa",
-						"default"
-					],
-					[
-						"sele",
-						"selector"
-					],
-					[
-						"sle",
-						"selected"
-					],
-					[
-						"cli",
-						"click"
-					],
-					[
-						"ha",
-						"hasClass"
-					],
-					[
-						"e",
-						"extend"
-					],
-					[
-						"on",
-						"onSelAfter"
-					],
-					[
-						"val",
-						"value"
-					],
-					[
-						"get",
-						"getFormData"
-					],
-					[
-						"font",
-						"font-family"
-					],
-					[
-						"rel",
-						"relative"
-					],
-					[
-						"rig",
-						"right"
-					],
-					[
-						"lh",
-						"line-height"
-					],
-					[
-						"selec",
-						"selected"
-					],
-					[
-						"min",
-						"mixin"
-					],
-					[
-						"conf",
-						"confirm"
-					],
-					[
-						"cu",
-						"cutStr"
-					],
-					[
-						"def",
-						"define"
-					],
-					[
-						"hi",
-						"hidden"
-					],
-					[
-						"has",
-						"hasOpen"
-					],
-					[
-						"note",
-						"notelist"
-					],
-					[
-						"ov",
-						"overflow"
-					],
-					[
-						"ba",
-						"background"
-					],
-					[
-						"remo",
-						"remove"
-					],
-					[
-						"arr",
-						"arrVal"
-					],
-					[
-						"slide",
-						"slideUp"
-					],
-					[
-						"cl",
-						"click"
-					],
-					[
-						"remove",
-						"removeClass"
-					],
-					[
-						"ul",
-						"ul"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"pos",
-						"position"
-					],
-					[
-						"po",
-						"pointer"
-					],
-					[
-						"pad",
-						"padding"
-					],
-					[
-						"no",
-						"none"
-					],
-					[
-						"foc",
-						"focus"
-					],
-					[
-						"cur",
-						"cursor"
-					],
-					[
-						"ri",
-						"right"
-					],
-					[
-						"ac",
-						"active"
-					],
-					[
-						"fonst",
-						"font-style"
-					],
-					[
-						"abs",
-						"absolute"
-					],
-					[
-						"mar",
-						"margin"
-					],
-					[
-						"le",
-						"level"
-					],
-					[
-						"out",
-						"outline"
-					],
-					[
-						"teal",
-						"text-align"
-					],
-					[
-						"col",
-						"color"
-					],
-					[
-						"fon",
-						"font-family"
-					],
-					[
-						"wi",
-						"width"
-					],
-					[
-						"time",
-						"timeFuncs"
-					],
-					[
-						"playe",
-						"player"
-					],
-					[
-						"vi",
-						"video"
-					],
-					[
-						"zi",
-						"z-index"
-					],
-					[
-						"top",
-						"top	top"
-					],
-					[
-						"de",
-						"default"
-					],
-					[
-						"player",
-						"playerObj"
+						"query",
+						"querySelectorAll	(jquery3.0-a.js)"
 					],
 					[
 						"arg",
 						"arguments"
 					],
 					[
-						"pro",
-						"prototype"
+						"bac",
+						"background-color"
 					],
 					[
-						"if",
-						"if	self-if"
+						"lef",
+						"left"
 					],
 					[
-						"curr",
-						"currNum"
+						"curs",
+						"cursor"
 					],
 					[
-						"touch",
-						"touchTarget"
+						"foc",
+						"focus"
+					],
+					[
+						"ar",
+						"args"
+					],
+					[
+						"ra",
+						"radio"
+					],
+					[
+						"le",
+						"level-3"
+					],
+					[
+						"pre",
+						"preventDefault"
+					],
+					[
+						"ri",
+						"right"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"s",
+						"scroll"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"ani",
+						"animateEls"
+					],
+					[
+						"off",
+						"offset"
+					],
+					[
+						"anim",
+						"animated	(animate.css)"
+					],
+					[
+						"close",
+						"closest"
+					],
+					[
+						"bo",
+						"body"
+					],
+					[
+						"win",
+						"window"
 					],
 					[
 						"he",
-						"height"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 400.0,
-				"last_filter": "set ",
-				"selected_items":
-				[
-					[
-						"set ",
-						"Set Syntax: HTML"
+						"header"
 					],
 					[
-						"setjavas",
-						"Set Syntax: JavaScript"
+						"wi",
+						"window"
 					],
 					[
-						"set javas",
-						"Set Syntax: JavaScript"
+						"th",
+						"this"
+					],
+					[
+						"lev",
+						"level-3	(page.scss)"
+					],
+					[
+						"leve",
+						"level-1	(page.scss)"
+					],
+					[
+						"mat",
+						"margin-top"
+					],
+					[
+						"rem",
+						"removeClass	(header.js)"
+					],
+					[
+						"bacc",
+						"background-color"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"over",
+						"overflow"
+					],
+					[
+						"rel",
+						"relative"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"the",
+						"thead	(demo.html)"
+					],
+					[
+						"borderr",
+						"border-right"
+					],
+					[
+						"fo",
+						"font-family"
+					],
+					[
+						"borr",
+						"border-right"
+					],
+					[
+						"bor",
+						"border-top"
+					],
+					[
+						"my-",
+						"my-clearfix"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"cur",
+						"cursor	(header.scss)"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"bas",
+						"background-size"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"str",
+						"str"
+					],
+					[
+						"con",
+						"console	(notebook-my.html)"
+					],
+					[
+						"log",
+						"loginSuccess"
+					],
+					[
+						"fos",
+						"font-size"
+					],
+					[
+						"len",
+						"length	(notelist.tpl)"
+					],
+					[
+						"l",
+						"length"
+					],
+					[
+						"va",
+						"value	Attr"
+					],
+					[
+						"to",
+						"totalPage	(header.js)"
+					],
+					[
+						"visi",
+						"visible	(teach-main-nav.scss)"
+					],
+					[
+						"conte",
+						"content"
+					],
+					[
+						"texal",
+						"text-align"
+					],
+					[
+						"tra",
+						"transition"
 					],
 					[
 						"in",
-						"Package Control: Install Package"
+						"input	(login-register.tpl)"
 					],
 					[
-						"inspac",
-						"Snippet: input - search"
+						"pla",
+						"placeholder	(login-register.tpl)"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
+						"geta",
+						"getAllSearchData"
 					],
 					[
-						"ins",
-						"Package Control: Install Package"
+						"get",
+						"getNewData"
 					],
 					[
-						"set htm",
-						"Set Syntax: HTML"
+						"po",
+						"pointer	(common.scss)"
 					],
 					[
-						"set sass",
-						"Set Syntax: Sass"
+						"se",
+						"selected	(buy-course.js)"
 					],
 					[
-						"set java",
-						"Set Syntax: JavaScript"
+						"current",
+						"currentTarget	(jplayer.koolearn1.0.js)"
 					],
 					[
-						"set h",
-						"Set Syntax: HTML"
+						"hasT",
+						"hasTeacher"
 					],
 					[
-						"set html",
-						"Set Syntax: HTML"
+						"bot",
+						"bottom"
 					],
 					[
-						"set ht",
-						"Set Syntax: HTML"
+						"pr",
+						"prototype"
 					],
 					[
-						"seth",
-						"Set Syntax: HTML"
+						"_is",
+						"_isFirstPlay"
 					],
 					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"set le",
-						"Set Syntax: LESS"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"remop",
-						"Package Control: Remove Package"
-					],
-					[
-						"insp",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"ints",
-						"Package Control: Install Package"
-					],
-					[
-						"Install Package",
-						"Package Control: Install Package"
-					],
-					[
-						"isnta",
-						"Package Control: Install Package"
-					],
-					[
-						"remove p",
-						"Package Control: Remove Package"
-					],
-					[
-						"st java",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"inp",
-						"Package Control: Install Package"
-					],
-					[
-						"inpa",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 520.0
-			},
-			"console":
-			{
-				"height": 164.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by).",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/fileUpload/upload-cmd.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/fileUpload/demo.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/fileUpload/demo-auto-upload.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/fileUpload/upload.js",
-				"/E/Work-XDF/code/static/framework/global.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/fileUpload/uploadify/uploadify.css",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register-logic.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register.css",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register.scss",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register.tpl",
-				"/E/myCode/myTest/fileUpload/upload.js",
-				"/E/myCode/myTest/fileUpload/uploadify/jquery.uploadify-zh.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-course.html",
-				"/E/myCode/myTest/fileUpload/demo.html",
-				"/E/myCode/myTest/fileUpload/demo-auto-upload.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-course.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/json/buy/course.php",
-				"/E/Work-XDF/code/static/project/teach/1.x/css/common/base/common.scss",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/refund.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/list.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/paid.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/js/user/login-register-demo.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-pay.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/css/buy/buy-common.scss",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-pay.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register.html",
-				"/E/Work-XDF/code/static/project/setting/1.0/demo/safety.html",
-				"/E/Work-XDF/code/static/project/setting/1.0/js/safety/page.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-pay-weixin.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-recharge-success.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-pay-weixin.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/email/order-success.html",
-				"/E/myCode/myTest/fileUpload/uploadify/jquery.uploadify.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/user-account-query/user-proportions.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/user-account-query/page.scss",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/path/path.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/json/path/edit-tree.php",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/json/user-account-query/data.php",
-				"/E/Work-dajie/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/xiaomi_mail.html",
-				"/E/Work-dajie/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/nlvc_mail.html",
-				"/E/Work-dajie/Code/assets/up/dj-mobile/pushover/demo/web-xiaomi/mail_20140717.html",
-				"/E/myCode/myTest/fileUpload/uploadify/uploadify.css",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/use-proportions.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/user-login.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/list.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/userinfo.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/user-prop.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/cash-account.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-vip.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-live.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-recharge.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-live.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/order/page.scss",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/user-account-query/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/turnpage.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/null.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/common.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/i.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/js/user/my-account.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/js/user/my-order-all.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/css/buy/buy-success.scss",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-success.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-recharge.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/path/path.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/live-product.html",
-				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/PageBase.js",
-				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/Video.js",
-				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/OverrideApi.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/user-account-query/page.css",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/path/page.css",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/form/getFormData.js",
-				"/E/Work-dongfangwendao/WebSeatFlipCourse/Admin/Trunk/WebSeat.Web.Core/Controls/EasyUiPageHtml.cs",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/live-course/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/live-course/edit.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/live-course/liveDialog/dialog.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/my-order-all.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/css/buy/buy-pay.scss",
-				"/E/Work-XDF/code/static/project/teach/1.x/css/buy/buy-course.scss",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/bootstrap-datepicker/bootstrap-datepicker.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/learn-progess-detail.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/bootstrap-datepicker/datapicker.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/tpl/buy/buy-vip.tpl",
-				"/E/Work-XDF/code/static/project/teach/1.x/tpl/buy/buy-course.tpl",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/use-prop.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/batch-list.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/product-manage-edit/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/live/live-edit.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/product-manage/edit.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/live/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/bootstrap-datepicker/demo.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/bootstrap-datepicker-dist/bootstrap-datepicker.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/datapicker.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/bootstrap-datepicker-dist/bootstrap-datepicker.css",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/live/datetimepicker/bootstrap-datetimepicker.zh-CN.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/live/datetimepicker/bootstrap-datetimepicker.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/bootstrap-datepicker-dist/bootstrap-datepicker.zh-CN-min.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/bootstrap-datepicker-dist/bootstrap-datepicker-min.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/order/page.css",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/closed.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/pendingPay.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/freeze.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/build-table-list/build-table-list.js",
-				"/E/Work-XDF/code/static/dist/project/teach/1.x/js/buy/buy-recharge.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/product-manage-list/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/live-list/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/product-manage-list/page.scss",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/live-list/page.scss",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/product-manage/list.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/live/live-list.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/exam-area-manage/list.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/path/list.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/path/path-detail.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/css/user/my-order.scss",
-				"/E/Work-XDF/code/static/project/teach/1.x/common/build-page-turn/build-page-turn.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/common/build-page-turn/css/paging.scss",
-				"/E/Work-XDF/code/static/framework/css/shark/ext/table/demo/test-table.scss",
-				"/E/Work-XDF/code/static/project/teach/1.x/css/user/my-account-money.scss",
-				"/E/Work-XDF/code/static/project/teach/1.x/css/user/my-order-info.scss",
-				"/E/Work-XDF/code/static/project/teach/1.x/css/user/user-common.scss",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/my-account-money.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/my-order-haspay.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/my-order-null.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/my-order-waitpay.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/css/user/user-common.css",
-				"/E/Work-XDF/code/static/project/teach/1.x/common/build-page-turn/css/paging.css",
-				"/E/Work-XDF/code/static/project/teach/1.x/css/buy/buy-recharge-success.scss"
-			],
-			"find":
-			{
-				"height": 40.0
-			},
-			"find_in_files":
-			{
-				"height": 99.0,
-				"where_history":
-				[
-					"E:\\Work-dongfangwendao\\WebSeatFlipCourse\\Admin\\Trunk\\WebSeat.FlipCourse.Presentation.Web",
-					"E:\\Work-XDF\\code\\static\\project\\cms-mix",
-					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
-					"E:\\Work-XDF\\code\\static\\project\\cms-mix",
-					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
-					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css\\common",
-					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css\\buy",
-					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x",
-					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
-					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x",
-					"E:\\Work-dajie\\Code\\assets\\up\\dj-mobile\\pushover",
-					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins",
-					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap",
-					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins",
-					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap",
-					"E:\\myCode\\study\\sass\\mixins",
-					"E:\\Work-XDF\\code\\static\\framework\\css\\core",
-					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
-					"E:\\Work-XDF\\player\\svn\\jplayer-new00\\skin",
-					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
-					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap",
-					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins",
-					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets",
-					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
-					"E:\\myCode\\study\\sass\\mixins",
-					"E:\\Work-dajie\\Code\\assets\\up\\dj-mobile\\pushover\\css\\2015",
-					"E:\\myCode\\study\\sass\\mixins",
-					"E:\\Work-XDF\\code\\static\\framework\\css\\core",
-					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
-					"E:\\Work-XDF\\code\\static\\framework",
-					"E:\\Work-XDF\\code\\static",
-					"E:\\Work-XDF\\code\\static\\project\\setting\\1.0",
-					"E:\\MyCode-download\\jPlayer-2.9.2",
-					"E:\\Work-dajie\\zip\\MySublimePackage",
-					"C:\\Users\\xiongjian.KOOLEARN-INC\\AppData\\Roaming\\Sublime Text 3",
-					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"fileQueueId",
-					"fileId",
-					"38",
-					"uploadify",
-					"button_height",
-					"height",
-					"width",
-					"fileId",
-					"false",
-					"updateCourseList",
-					"refreshCourseList",
-					"updateCourseList",
-					"4",
-					"span",
-					"h",
-					"d",
-					"th",
-					"$paymentContent",
-					"checkedRadio",
-					"line-height",
-					"render",
-					"updateCourseList",
-					"api",
-					"updateCourseList",
-					"updatePageData",
-					"refreshCourseList",
-					"getDataAndRender",
-					"button",
-					"<a",
-					"a",
-					"Cancelled",
-					" Cancelled",
-					"is already in the queue.Do you want to replace the existing item in the queue?",
-					"Complete",
-					"this.",
-					"=",
-					"uploadify_onSelectError ",
-					"_treeDataCustom",
-					"18",
-					"\"25\"",
-					"\"30\"",
-					"30",
-					"left",
-					"14px",
-					"em",
-					"14px;",
-					"\"3\"",
-					"3",
-					"<td></td>",
-					"width=\"20\"",
-					"30",
-					"colspan=\"\" rowspan=\"\" headers=\"\"",
-					"666",
-					"width=\"666\"",
-					"68",
-					"12px",
-					"#d8d8d8",
-					"<td",
-					"td",
-					"width=\"668\"",
-					"align=\"right\"",
-					"4",
-					"colspan=\"4\"",
-					"56",
-					"</dd>",
-					"<dd>",
-					"<tr height=\"56\">",
-					"height=\"56\"",
-					"<td>",
-					"<tr>",
-					"target=\"_blank\"",
-					"href=\"\"",
-					"<a href=\"\"><img src=\"/project/teach/1.x/image/course.jpg\" alt=\"\"></a>",
-					"114",
-					"25",
-					"2970a7",
-					"35",
-					";\">",
-					"                     \n",
-					"46",
-					"26",
-					"　11：11：11",
-					"dd",
-					"WebJs.Uploadify",
-					"WebJs.Dialog.Tip",
-					"",
-					"WebJs.Uploadify",
-					"target",
-					"sels",
-					"}\n",
-					"                    ",
-					"i-btn-red",
-					"$btn",
-					"treeEdit",
-					"$this",
-					"getFormData",
-					"$this",
-					"$(this)",
-					"renderTags",
-					"liveDialog",
-					"addLiveFn",
-					"active",
-					"./order/",
-					"./course/",
-					"./user-account-query/",
-					"items",
-					"{\n",
-					"live-course",
-					"/live/",
-					"/live",
-					"live",
-					"郝晶芳",
-					"6",
-					"0",
-					"46",
-					"a",
-					"i",
-					"44",
-					"href=\"",
-					"paid.html",
-					"<i  class=\"i-refund\">退</i>",
-					"<a href=\"paid.html\">OD2015013100001</a>",
-					"product-manage",
-					"course",
-					" {",
-					"尹昆",
-					"郝晶芳",
-					"<!--\n"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": true,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 40.0
-			},
-			"input":
-			{
-				"height": 52.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 141.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 52.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"g",
-						"static\\framework\\global.html"
-					],
-					[
-						"/fileupload/demo.html",
-						"myCode\\myTest\\fileUpload\\demo.html"
-					],
-					[
-						"course.php",
-						"static\\project\\teach\\1.x\\json\\buy\\course.php"
-					],
-					[
-						"buy-course",
-						"static\\project\\teach\\1.x\\demo\\buy\\buy-course.html"
-					],
-					[
-						"user/dialog-login.html",
-						"static\\project\\teach\\1.x\\demo\\user\\dialog-login.html"
-					],
-					[
-						"order/paid.html",
-						"static\\project\\cms-mix\\1.x\\demo\\order\\paid.html"
-					],
-					[
-						"/framework/global.html",
-						"static\\framework\\global.html"
-					],
-					[
-						"buy/buy-pay.html",
-						"static\\project\\teach\\1.x\\demo\\buy\\buy-pay.html"
-					],
-					[
-						"safety/page.js",
-						"static\\project\\setting\\1.0\\js\\safety\\page.js"
-					],
-					[
-						"demo/safety.html",
-						"static\\project\\setting\\1.0\\demo\\safety.html"
-					],
-					[
-						"pay.htm",
-						"static\\project\\teach\\1.x\\demo\\buy\\buy-pay.html"
-					],
-					[
-						"user-account-query/user-login.html",
-						"static\\project\\cms-mix\\1.x\\demo\\user-account-query\\user-login.html"
-					],
-					[
-						"js/buy/buy-live.js",
-						"static\\project\\teach\\1.x\\js\\buy\\buy-live.js"
-					],
-					[
-						"buy/buy-live.html",
-						"static\\project\\teach\\1.x\\demo\\buy\\buy-live.html"
-					],
-					[
-						"buy-success.html",
-						"static\\project\\teach\\1.x\\demo\\buy\\buy-success.html"
-					],
-					[
-						"buy/buy-recharge.js",
-						"static\\project\\teach\\1.x\\js\\buy\\buy-recharge.js"
-					],
-					[
-						"buy/buy-recharge.html",
-						"static\\project\\teach\\1.x\\demo\\buy\\buy-recharge.html"
-					],
-					[
-						"user-account-query/page.css",
-						"static\\project\\cms-mix\\1.x\\css\\user-account-query\\page.css"
-					],
-					[
-						"css/path/page.css",
-						"static\\project\\cms-mix\\1.x\\css\\path\\page.css"
-					],
-					[
-						"js/path/path.js",
-						"static\\project\\cms-mix\\1.x\\js\\path\\path.js"
-					],
-					[
-						"demo/path/path.html",
-						"static\\project\\cms-mix\\1.x\\demo\\path\\path.html"
-					],
-					[
-						"live-course/page.js",
-						"static\\project\\cms-mix\\1.x\\js\\live-course\\page.js"
-					],
-					[
-						"live-course/edit.html",
-						"static\\project\\cms-mix\\1.x\\demo\\live-course\\edit.html"
-					],
-					[
-						"user/my-order-all.js",
-						"static\\project\\teach\\1.x\\js\\user\\my-order-all.js"
-					],
-					[
-						"my-order-all.html",
-						"static\\project\\teach\\1.x\\demo\\user\\my-order-all.html"
-					],
-					[
-						"my-order-all.js",
-						"static\\project\\teach\\1.x\\js\\user\\my-order-all.js"
-					],
-					[
-						"1.x/demo/i.html",
-						"static\\project\\cms-mix\\1.x\\demo\\i.html"
-					],
-					[
-						"product-manage-edit/page.js",
-						"static\\project\\cms-mix\\1.x\\js\\product-manage-edit\\page.js"
-					],
-					[
-						"product-manage/edit.html",
-						"static\\project\\cms-mix\\1.x\\demo\\product-manage\\edit.html"
-					],
-					[
-						"/js/live/page.js",
-						"static\\project\\cms-mix\\1.x\\js\\live\\page.js"
-					],
-					[
-						"live/live-edit.html",
-						"static\\project\\cms-mix\\1.x\\demo\\live\\live-edit.html"
-					],
-					[
-						"product-manage/list.html",
-						"static\\project\\cms-mix\\1.x\\demo\\product-manage\\list.html"
-					],
-					[
-						"my-order",
-						"static\\project\\teach\\1.x\\css\\user\\my-order.scss"
-					],
-					[
-						"buy-recharge.html",
-						"static\\project\\teach\\1.x\\demo\\buy\\buy-recharge.html"
-					],
-					[
-						"table/demo/demo.html",
-						"static\\framework\\css\\shark\\ext\\table\\demo\\demo.html"
-					],
-					[
-						"lesson-list.js",
-						"static\\project\\teach\\1.x\\js\\lesson-list\\lesson-list.js"
-					],
-					[
-						"lesson-list.html",
-						"static\\project\\teach\\1.x\\demo\\lesson-list.html"
-					],
-					[
-						"safety.html",
-						"static\\project\\setting\\1.0\\demo\\safety.html"
-					],
-					[
-						"vendor-pre",
-						"bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins\\_vendor-prefixes.scss"
-					],
-					[
-						"global.html",
-						"static\\framework\\global.html"
-					],
-					[
-						"mialfor",
-						"pushover\\js\\mail_form.js"
-					],
-					[
-						"102301",
-						"pushover\\js\\num\\102301.js"
-					],
-					[
-						"mail",
-						"pushover\\js\\mail_form.js"
-					],
-					[
-						"102301.",
-						"pushover\\js\\num\\102301.js"
-					],
-					[
-						"mailfo",
-						"pushover\\js\\mail_form.js"
-					],
-					[
-						"102317",
-						"pushover\\demo\\num\\102317.html"
-					],
-					[
-						"10231",
-						"pushover\\demo\\num\\102316.html"
-					],
-					[
-						"102304.html",
-						"pushover\\demo\\num\\102304.html"
-					],
-					[
-						"1001",
-						"css\\num\\100101.css"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 342.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1904.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"fun",
-						"transition-timing-function"
-					],
-					[
-						"sele",
-						"selected"
-					],
-					[
-						"hi",
-						"hide"
-					],
-					[
-						"show",
-						"showText"
+						"_get",
+						"_getMoblieInfo"
 					],
 					[
 						"sel",
 						"self"
 					],
 					[
-						"in",
-						"inline"
+						"mar",
+						"margin"
+					],
+					[
+						"no",
+						"none"
+					],
+					[
+						"curr",
+						"currentTarget	(jquery.jplayer.js)"
+					],
+					[
+						"fa",
+						"factory	(jquery.jplayer.js)"
+					],
+					[
+						"cl",
+						"click"
+					],
+					[
+						"bre",
+						"break-all"
+					],
+					[
+						"brea",
+						"word-break"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"sc",
+						"script	<script>"
+					],
+					[
+						"te",
+						"text"
+					],
+					[
+						"sea",
+						"searchData"
+					],
+					[
+						"opt",
+						"opts"
+					],
+					[
+						"app",
+						"apply	method.apply()"
+					],
+					[
+						"if",
+						"if	self-if"
+					],
+					[
+						"login",
+						"loginCb"
+					],
+					[
+						"hide",
+						"hideTeacher"
+					],
+					[
+						"sele",
+						"selected	Attr"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"h",
+						"header	Tag"
+					],
+					[
+						"show",
+						"showLoginDialog"
+					],
+					[
+						"fuc",
+						"function"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"set",
+						"setMedia"
+					],
+					[
+						"inp",
+						"input"
+					],
+					[
+						"di",
+						"dialog"
+					],
+					[
+						"table",
+						"table-layout"
+					],
+					[
+						"chec",
+						"checked"
+					],
+					[
+						"ce",
+						"checked	Attr"
+					],
+					[
+						"index",
+						"indexOf"
+					],
+					[
+						"clo",
+						"clone"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"curre",
+						"currentTarget"
+					],
+					[
+						"a",
+						"arguments"
+					],
+					[
+						"fi",
+						"file"
+					],
+					[
+						"ind",
+						"indexOf"
+					],
+					[
+						"check",
+						"checkbox"
+					],
+					[
+						"Fo",
+						"form"
+					],
+					[
+						"lo",
+						"location"
+					],
+					[
+						"la",
+						"labels"
+					],
+					[
+						"td",
+						"tdText"
+					],
+					[
+						"canc",
+						"cancelValue"
+					],
+					[
+						"cms",
+						"cmsDialog"
+					],
+					[
+						"input",
+						"inputh	input - hidden"
+					],
+					[
+						"hid",
+						"hidden"
+					],
+					[
+						"clear",
+						"clearTimeout"
+					],
+					[
+						"re",
+						"removeClass"
+					],
+					[
+						"me",
+						"message"
+					],
+					[
+						"last",
+						"last-child"
+					],
+					[
+						"ve",
+						"vertical-align"
+					],
+					[
+						"valid",
+						"validate"
+					],
+					[
+						"els",
+						"else if	self-else if"
+					],
+					[
+						"hi",
+						"hide"
 					],
 					[
 						"hei",
@@ -1229,521 +576,9 @@
 					[
 						"wid",
 						"width"
-					],
-					[
-						"wi",
-						"window"
-					],
-					[
-						"end",
-						"endTime"
-					],
-					[
-						"re",
-						"readonly"
-					],
-					[
-						"dis",
-						"disabled"
-					],
-					[
-						"di",
-						"disabled	Attr"
-					],
-					[
-						"valid",
-						"valid"
-					],
-					[
-						"transo",
-						"transform"
-					],
-					[
-						"bac",
-						"background"
-					],
-					[
-						"ch",
-						"checked"
-					],
-					[
-						"ex",
-						"extend"
-					],
-					[
-						"che",
-						"checked	Attr"
-					],
-					[
-						"sle",
-						"select	<select>"
-					],
-					[
-						"op",
-						"opts"
-					],
-					[
-						"textal",
-						"text-align"
-					],
-					[
-						"max",
-						"maxNum"
-					],
-					[
-						"con",
-						"content"
-					],
-					[
-						"texta",
-						"text-align"
-					],
-					[
-						"te",
-						"textarea	<textarea>"
-					],
-					[
-						"fons",
-						"font-size"
-					],
-					[
-						"se",
-						"self"
-					],
-					[
-						"rese",
-						"resetForm"
-					],
-					[
-						"hsa",
-						"hasClass"
-					],
-					[
-						"res",
-						"resetForm"
-					],
-					[
-						"fo",
-						"form"
-					],
-					[
-						"has",
-						"hasClass"
-					],
-					[
-						"ou",
-						"ourRangMsg"
-					],
-					[
-						"defin",
-						"define"
-					],
-					[
-						"文件上传",
-						"文件上传测试"
-					],
-					[
-						"my",
-						"my-clearfix"
-					],
-					[
-						"type",
-						"typeof"
-					],
-					[
-						"ds",
-						"disable"
-					],
-					[
-						"inl",
-						"inline-block"
-					],
-					[
-						"inli",
-						"inline"
-					],
-					[
-						"box",
-						"box-shadow"
-					],
-					[
-						"la",
-						"label"
-					],
-					[
-						"http",
-						"http://58.123.102.108"
-					],
-					[
-						"upload",
-						"uploadify"
-					],
-					[
-						"init",
-						"initEvent"
-					],
-					[
-						"num",
-						"num"
-					],
-					[
-						"page",
-						"pager"
-					],
-					[
-						"to",
-						"totalMoney"
-					],
-					[
-						"root",
-						"rootText"
-					],
-					[
-						"opts",
-						"options"
-					],
-					[
-						"now",
-						"nowrap"
-					],
-					[
-						"fonts",
-						"font-size"
-					],
-					[
-						"ini",
-						"init"
-					],
-					[
-						"isF",
-						"isFunction"
-					],
-					[
-						"order",
-						"orderId"
-					],
-					[
-						"sub",
-						"submit"
-					],
-					[
-						"doc",
-						"document"
-					],
-					[
-						"appe",
-						"appendTo"
-					],
-					[
-						"clea",
-						"clearTimeout"
-					],
-					[
-						"data",
-						"data"
-					],
-					[
-						"clo",
-						"colspan	Attr"
-					],
-					[
-						"wrap",
-						"wrap-content"
-					],
-					[
-						"disa",
-						"disabled"
-					],
-					[
-						"vis",
-						"visibility"
-					],
-					[
-						"visi",
-						"visibility"
-					],
-					[
-						"inc",
-						"include"
-					],
-					[
-						"hid",
-						"hide"
-					],
-					[
-						"cou",
-						"courseId"
-					],
-					[
-						"not",
-						"not-sel"
-					],
-					[
-						"selte",
-						"selected"
-					],
-					[
-						"len",
-						"length"
-					],
-					[
-						"nota",
-						"not-allowed"
-					],
-					[
-						"defa",
-						"default"
-					],
-					[
-						"cli",
-						"click"
-					],
-					[
-						"ha",
-						"hasClass"
-					],
-					[
-						"e",
-						"extend"
-					],
-					[
-						"on",
-						"onSelAfter"
-					],
-					[
-						"val",
-						"value"
-					],
-					[
-						"get",
-						"getFormData"
-					],
-					[
-						"font",
-						"font-family"
-					],
-					[
-						"rel",
-						"relative"
-					],
-					[
-						"rig",
-						"right"
-					],
-					[
-						"lh",
-						"line-height"
-					],
-					[
-						"selec",
-						"selected"
-					],
-					[
-						"min",
-						"mixin"
-					],
-					[
-						"conf",
-						"confirm"
-					],
-					[
-						"cu",
-						"cutStr"
-					],
-					[
-						"def",
-						"define"
-					],
-					[
-						"note",
-						"notelist"
-					],
-					[
-						"ov",
-						"overflow"
-					],
-					[
-						"ba",
-						"background"
-					],
-					[
-						"remo",
-						"remove"
-					],
-					[
-						"arr",
-						"arrVal"
-					],
-					[
-						"slide",
-						"slideUp"
-					],
-					[
-						"cl",
-						"click"
-					],
-					[
-						"remove",
-						"removeClass"
-					],
-					[
-						"ul",
-						"ul"
-					],
-					[
-						"pos",
-						"position"
-					],
-					[
-						"po",
-						"pointer"
-					],
-					[
-						"pad",
-						"padding"
-					],
-					[
-						"no",
-						"none"
-					],
-					[
-						"foc",
-						"focus"
-					],
-					[
-						"cur",
-						"cursor"
-					],
-					[
-						"ri",
-						"right"
-					],
-					[
-						"ac",
-						"active"
-					],
-					[
-						"fonst",
-						"font-style"
-					],
-					[
-						"abs",
-						"absolute"
-					],
-					[
-						"mar",
-						"margin"
-					],
-					[
-						"le",
-						"level"
-					],
-					[
-						"out",
-						"outline"
-					],
-					[
-						"teal",
-						"text-align"
-					],
-					[
-						"col",
-						"color"
-					],
-					[
-						"fon",
-						"font-family"
-					],
-					[
-						"time",
-						"timeFuncs"
-					],
-					[
-						"playe",
-						"player"
-					],
-					[
-						"vi",
-						"video"
-					],
-					[
-						"zi",
-						"z-index"
-					],
-					[
-						"top",
-						"top	top"
-					],
-					[
-						"de",
-						"default"
-					],
-					[
-						"player",
-						"playerObj"
-					],
-					[
-						"arg",
-						"arguments"
-					],
-					[
-						"pro",
-						"prototype"
-					],
-					[
-						"if",
-						"if	self-if"
-					],
-					[
-						"curr",
-						"currNum"
-					],
-					[
-						"touch",
-						"touchTarget"
-					],
-					[
-						"he",
-						"height"
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/demo/message-center/send-mesage.html",
-					"settings":
-					{
-						"buffer_size": 10657,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/js/message-center/send-message.js",
-					"settings":
-					{
-						"buffer_size": 5057,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/wfdialog.js",
-					"settings":
-					{
-						"buffer_size": 5110,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/css/customer-service-manage/page.scss",
-					"settings":
-					{
-						"buffer_size": 6273,
-						"line_ending": "Windows"
-					}
-				}
-			],
-			"build_system": "Packages/SASS Build/SASS - Compressed.sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -1767,12 +602,176 @@
 			"command_palette":
 			{
 				"height": 400.0,
-				"last_filter": "inp",
+				"last_filter": "ins",
 				"selected_items":
 				[
 					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"set ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sassb",
+						"SassBeautify"
+					],
+					[
+						"sass",
+						"SassBeautify"
+					],
+					[
+						"setja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"set sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"scss",
+						"Set Syntax: CSS"
+					],
+					[
+						"st ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set h",
+						"Set Syntax: HTML"
+					],
+					[
+						"seth",
+						"Set Syntax: HTML"
+					],
+					[
+						"set html",
+						"Set Syntax: HTML"
+					],
+					[
+						"set ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"insp",
+						"Package Control: Install Package"
+					],
+					[
+						"set javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						":help",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						":wq",
+						"BracketHighlighter: Swap Quotes"
+					],
+					[
+						"set j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"setuse",
+						"Preferences: Settings - User"
+					],
+					[
+						"set ajvas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sassv",
+						"SassBeautify: Convert from CSS to current type"
+					],
+					[
+						"s",
+						"SassBeautify"
+					],
+					[
+						"set ",
+						"Set Syntax: Markdown"
+					],
+					[
+						"set htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"set js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"setjava",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"SassBeautify",
+						"SassBeautify"
+					],
+					[
 						"inp",
 						"Package Control: Install Package"
+					],
+					[
+						"set javc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"git add ",
+						"Git: Add Current File"
+					],
+					[
+						"git ",
+						"Git: Status"
+					],
+					[
+						"git s",
+						"Git: Status"
+					],
+					[
+						"git st",
+						"Git: Show Tags"
+					],
+					[
+						"inpa",
+						"Package Control: Install Package"
+					],
+					[
+						"reindent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"SET JA",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"re movep",
+						"Package Control: Remove Package"
 					],
 					[
 						"pacin",
@@ -1781,10 +780,6 @@
 					[
 						"snif",
 						"Snippet: Function"
-					],
-					[
-						"set ja",
-						"Set Syntax: JavaScript"
 					],
 					[
 						"setjavas",
@@ -1799,10 +794,6 @@
 						"Set Syntax: JavaScript"
 					],
 					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
 						"remove ",
 						"Package Control: Remove Package"
 					],
@@ -1811,56 +802,12 @@
 						"Set Syntax: JavaScript"
 					],
 					[
-						"set javas",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"set ",
-						"Set Syntax: HTML"
-					],
-					[
 						"in",
 						"Package Control: Install Package"
 					],
 					[
 						"inspac",
 						"Snippet: input - search"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"set htm",
-						"Set Syntax: HTML"
-					],
-					[
-						"set sass",
-						"Set Syntax: Sass"
-					],
-					[
-						"set java",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"set h",
-						"Set Syntax: HTML"
-					],
-					[
-						"set html",
-						"Set Syntax: HTML"
-					],
-					[
-						"set ht",
-						"Set Syntax: HTML"
-					],
-					[
-						"seth",
-						"Set Syntax: HTML"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
 					],
 					[
 						"set le",
@@ -1873,10 +820,6 @@
 					[
 						"remop",
 						"Package Control: Remove Package"
-					],
-					[
-						"insp",
-						"Package Control: Install Package"
 					],
 					[
 						"Package Control: ",
@@ -1905,19 +848,17 @@
 					[
 						"st java",
 						"Set Syntax: JavaScript"
-					],
-					[
-						"inpa",
-						"Package Control: Install Package"
 					]
 				],
-				"width": 472.0
+				"width": 520.0
 			},
 			"console":
 			{
-				"height": 164.0,
+				"height": 404.0,
 				"history":
 				[
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
 					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
 					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by).",
 					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
@@ -1932,167 +873,231 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/E/myCode",
-				"/E/myCode/study",
-				"/E/myCode/study/slidePage",
-				"/E/Work-XDF/code/static",
-				"/E/Work-XDF/code/static/common",
-				"/E/Work-XDF/code/static/common/backbone",
-				"/E/Work-XDF/code/static/common/validate",
-				"/E/Work-XDF/code/static/common/validate/js",
-				"/E/Work-XDF/code/static/project",
-				"/E/Work-XDF/code/static/project/cms-mix",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/message-center",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/json",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/json/ajax",
-				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates"
-			],
 			"file_history":
 			[
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/audit/audit.js",
-				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tuike-shenhe.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tuike-caiwushenhe.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tixian-daiban-kefu.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tixian-daiban-caiwuzongjian.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tixian-daiban-caiwuqueren.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/chonogzhi-kufu.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/chongzhi-kefuzongjian.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/chongzhi-caiwu.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/audit/returnDialog/dialog.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/audit/submitDialog/dialog.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/mission-center/live/todo.html",
-				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/js.tmpl",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/message-center/product-list.tpl",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/message-center/user-list.tpl",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/validateLength.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/applation-withdrawals.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/message-center/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/turnpage.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/json/send-message/user-list.php",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/json/send-message/product-list.php",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/selectAll.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/wfdialog.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/customer-service-manage/page.css",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-pay.html",
+				"/E/Work-XDF/cms-nodejs/views/tool/cms/koocdn.html",
+				"/E/Work-XDF/cms-nodejs/Readme.md",
+				"/E/Work-XDF/cms-nodejs/mainRoutes.js",
+				"/E/MyFiles/js-high/qa/2015/07/27/bear-滚动加载-20150727/index.html",
 				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-course.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-pay.js",
-				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/slidePage/testPage/testFullPage.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/bootstrap-datepicker/datapicker.js",
-				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/slidePage/testPage/test-main.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/bootstrap-datepicker/demo.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/finance-yuetongji.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/i.html",
-				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/slidePage/testPage/slidepage2.0.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/_dialog-return.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/json/buy/course.php",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-course.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/customer-service-manage/page.scss",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/finance/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/finance-jioayirizi.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/finance-shourutongji.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/finance-xiaoshoutongji.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/message-center/msg-manage.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/mission-center/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/withdrawals-applation.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/recharge-application.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/application-recharge.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/batch-list.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/getAndJump.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/extendValidate.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/common.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/chongzhi-yiban.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tuike-kefu.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tixian-yiban.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/tuike-yiban.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/customer-refund.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/view-tixian.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/cms-dialog/cms-dialog.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/daiban.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/_dialog.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/applation-customer-refund.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/mission-center/course/todo.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/course/edit.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/slideUpOrDown.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/view-chongzhi.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/view-tuikuan.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/customer-refund.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/recharge-application.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/view-shenqingtuikuan.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/withdrawals-applation.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/json/ajax/submit.php",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/json/ajax/json.php",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/extendValidate.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/audit/audit.css",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/dialog/xdfDialog.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/common-dialog.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/dialog/dialog.scss",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/path/path.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/form/form.css",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/user-account-query/page.scss",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/course-list-update/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/course/list-update.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/course-list-update/page.scss",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/course-list-update/page.css",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/live-product.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/user-account-query/page.css",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/path/path.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/course-list/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/course/list.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/course-list/moveDialog/dialog.js",
-				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/html.tmpl",
-				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/css.tmpl",
-				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
 				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/special-topic/20150630/demo-abs.html",
+				"/E/Work-XDF/cms-svn/cms/manage/phpcms/templates/gaokao/special/index_kecheng.html",
+				"/C/Users/xiongjian.KOOLEARN-INC/cmdssh.pub",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/special-topic/20150630/js/page.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/special-topic/20150630/css/page.scss",
+				"/C/Users/xiongjian.KOOLEARN-INC/_netrc",
+				"/C/Users/xiongjian.KOOLEARN-INC/.gemrc",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/listen.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/special-topic/20150630/demo-abs-20150714.html",
+				"/E/myCode/myTest/nodejs/express-study/routes.js",
+				"/E/myCode/myTest/nodejs/express-study/test02.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/config.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/db/mysql.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/views/tool/cms/add.html",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/app.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/db/cms.js",
+				"/E/myCode/myTest/nodejs/express-study/test01.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/routes/tool.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/routes/cms.js",
+				"/E/Work-XDF/cms-nodejs/.svn/format",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/B0-83-FE-84-26-B6.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/mainRoutes.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/bat/mukeFe.bat",
+				"/E/myCode/myTest/nodejs/express-study/package.json",
+				"/E/myCode/myTest/nodejs/express-study/tmp/hello.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/node_modules/express/package.json",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/db/resource.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/routes/resource.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/views/resource/index.html",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/views/layout.html",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/User/self-console-log.sublime-snippet",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/User/self-html.sublime-snippet",
+				"/E/MyFiles/js-high/qa/2015/07/27/bear-滚动加载/index.html",
+				"/E/MyFiles/js-high/qa/2015/07/03/漫溯-选项卡-20150711.html",
+				"/E/Work-dajie/Code/assets/up/dj-mobile/pushover/css/hunter-jobs.css",
+				"/E/myCode/StudyMaterials/git/gitcommad.txt",
+				"/E/myCode/book-code/JavaScript设计模式与开发实践-源代码/16/16.html",
+				"/E/myCode/book-code/JavaScript设计模式与开发实践-源代码/01/1.1.html",
+				"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-vhosts.conf",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-recharge.js",
+				"/E/myCode/myTest/good-demo/keyword/Keyword.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-live.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-pay-weixin.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-course.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-vip.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/common/header/html/_header.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/bootstrap-datepicker/datapicker.js",
 				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/page.js",
-				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+				"/E/Work-XDF/files/fe/background.js",
+				"/E/Work-XDF/files/fe/doc.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/special-topic/20150630/demo.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/customer-service-management-list.html",
+				"/E/myCode/myTest/good-demo/keyword/words.txt",
+				"/E/myCode/myTest/good-demo/keyword/idiom.txt",
+				"/E/myCode/myTest/good-demo/keyword/city.txt",
+				"/E/myCode/myTest/good-demo/Keyword.html",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/test.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register-logic.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register.tpl",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register-full.css",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/demo.html",
+				"/D/googledownload/FW_API_purge/demo_push_content.php",
+				"/E/Work-XDF/files/ssologin/login-register.css",
+				"/E/myCode/sourceCodeStudy/JQuerySourceStudy/jquery-3-0/jquery3.0-a.js",
+				"/E/Work-XDF/SVN/高考产品线/落地页UI/文字素材/生物课程体系.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/common/header/state-picker/state-picker.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/common/header/header.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/common/ieFix/fixHover.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/special-topic/20150630/lib/dialog.js",
+				"/E/Work-dajie/Code/assets/up/dj-mobile/pushover/content/js/weixin/weixin2.0.js",
+				"/E/Work-dajie/Code/assets/up/dj-mobile/nitpick/js/avatar.min.js",
+				"/E/Work-dajie/Code/assets/up/dj-mobile/nitpick/js/avatar.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/special-topic/20150630/lib/dialog-plus.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/buy/buy-vip.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/application/notebook-my.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/special-topic/20150630/js/flash-player.js",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/html.tmpl",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/test.js",
+				"/E/Work-XDF/code/static/project/tiku/1.x/js/common/tree/tree.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/order/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/common/getAndJump.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/application/notebook-my.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/paid.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/common/header/state-picker/css/state.scss",
+				"/E/Work-XDF/code/static/project/teach/1.x/common/header/css/header.scss",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/withdrawals-applation.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/applation-withdrawals.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/special-topic/20150630/js/carousel.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/form/form.scss",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/form/form.css",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/live-list/live-list.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/application/wrong-note.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/applation-customer-refund.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/common/lazyLoadList1.0.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/special-topic/20150630/css/animate.css",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/学生排序及介绍.txt",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/buy/buy-pay-weixin.scss",
+				"/E/MyCode-download/animate.css-master/source/zooming_entrances/zoomIn.css",
+				"/E/MyCode-download/animate.css-master/animate.css",
+				"/E/Work-XDF/code/static/project/teach/1.x/css/buy/buy-pay.scss",
+				"/E/Work-dajie/Code/assets/up/dj-mobile/pushover/content/css/animate1.0/animate.full.css",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/课程表区域文字.txt",
+				"/E/Work-XDF/SVN/高考产品线/落地页UI/文字素材/课程表区域文字.txt",
+				"/E/myCode/study/Carousel/autoplay.js",
+				"/E/Work-XDF/SVN/高考产品线/落地页UI/文字素材/地理课程体系.html",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/语文课程体系(1).html",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/语文课程体系.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/common/tab-switch.js",
+				"/E/Work-XDF/code/static/common/kooplayer/demo/demo.html",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/js.tmpl",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default (Windows).sublime-keymap",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
 				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default.sublime-commands",
 				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Main.sublime-menu",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/user-account-query/page.js",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/learn-progess-detail.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/申请退款客服.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/order/paid.html",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/file-upload/uploadify.css",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register.tpl",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/validate-cfg.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/js/user/login-register-demo.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register.scss",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/dialog-login-register/login-register-logic.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-live.js",
-				"/E/Work-dajie/Code/assets/up/dj-mobile/pushover/demo/num/111806.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/css/user/my-order.scss",
-				"/E/Work-XDF/code/static/project/teach/1.x/css/user/user-common.scss",
-				"/E/Work-XDF/code/static/project/teach/1.x/common/build-page-turn/css/paging.scss",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/user/my-order-all.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/css/user/user-common.css",
-				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/user-account-query/use-proportions.html",
-				"/E/Work-XDF/code/static/common/validate/js/method-ajax.js",
-				"/E/Work-XDF/code/static/common/validate/js/jquery.validate.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/js/common/tab-switch.js",
-				"/E/Work-XDF/code/static/common/validate/validate.js",
-				"/E/Work-dajie/Code/assets/up/dj-mobile/pushover/lib/validate.js",
-				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-recharge.html",
-				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-recharge.js"
+				"/E/Work-XDF/code/static/project/teach/1.x/common/dialog-login/dialog-login.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/message-center/user-list.tpl",
+				"/E/Work-XDF/code/static/framework/css/shark/ext/_table.scss"
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 44.0
 			},
 			"find_in_files":
 			{
-				"height": 99.0,
+				"height": 147.0,
 				"where_history":
 				[
+					"E:\\Work-XDF\\cms-nodejs",
+					"E:\\Work-XDF\\cms-nodejs-code\\feCenter",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\dist\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js\\application",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\teach",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\teach",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js\\finance",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js\\customer-service-manage",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js\\buy",
+					"E:\\Work-XDF\\code\\static\\common\\kooplayer",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css.*.scss",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css*.scss",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js\\user",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js\\buy",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\MyCode-download\\seajs-master",
+					"E:\\Work-dajie\\Code\\assets\\up\\dj-mobile\\pushover",
+					"E:\\myCode",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\teach",
+					"E:\\Work-XDF\\code\\static\\project",
+					"E:\\Work-XDF\\player\\svn\\jplayer-new00",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js\\customer-service-manage",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo\\customer-service-manage",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x",
+					"E:\\Work-XDF\\code\\static\\grunt-tools",
+					"E:\\Work-XDF\\code\\static\\project",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css\\common\\base",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\teach",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project",
+					"E:\\Work-XDF\\code\\static\\project\\teach",
+					"E:\\Work-XDF\\code\\static\\grunt-tools",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js\\customer-service-manage",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
 					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo",
 					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo\\customer-service-manage",
 					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
@@ -2135,10 +1140,7 @@
 					"E:\\Work-XDF\\code\\static\\framework",
 					"E:\\Work-XDF\\code\\static",
 					"E:\\Work-XDF\\code\\static\\project\\setting\\1.0",
-					"E:\\MyCode-download\\jPlayer-2.9.2",
-					"E:\\Work-dajie\\zip\\MySublimePackage",
-					"C:\\Users\\xiongjian.KOOLEARN-INC\\AppData\\Roaming\\Sublime Text 3",
-					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap"
+					"E:\\MyCode-download\\jPlayer-2.9.2"
 				]
 			},
 			"find_state":
@@ -2146,134 +1148,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"wfdialog",
-					"getReturnData",
-					"getSubmitData",
-					"processReturn",
-					"returnDialog",
-					"checkbox",
-					"nmae",
-					"wf",
-					"btn",
-					"，",
-					"teach",
-					"\"xx\"",
-					"xxx",
-					"xx",
-					"userId",
-					"\"xx\"",
-					"productName",
-					"produceCode",
-					"productId",
-					"jp-product",
-					"jp-submit",
-					"this",
-					"jquery",
-					"validateLength",
-					"$form",
-					"th",
-					"jp-product-lsit",
-					"tran-type",
-					"class=\"i-w150\"",
-					"jquery",
-					"active: 'xx'",
-					"active: 'xx',",
-					"readonly=\"readonly\"",
-					"resetOrderStatus",
-					"getDataAndRender",
-					"updateCourseList",
-					"getDataAndRender",
-					"dialog",
-					"Dialog",
-					"dialog",
-					"rdata",
-					"true",
-					"finance",
-					"w150",
-					"op",
-					"操作",
-					"op",
-					"opr",
-					"bootstrap-datepicker",
-					"jquery",
-					"i-pt20",
-					"class=\"\"",
-					"mr100",
-					"data-ispreventdefault=\"\"",
-					"extendValidate",
-					"jquery",
-					"th",
-					"class=\"lh40\"",
-					"for=\"\"",
-					"jquery",
-					"for=\"\"",
-					"slideUpOrDown",
-					"wfdialog",
-					"slideUpOrDown",
-					"wfdialog",
-					"daiban",
-					"submitBtn",
-					"dialog",
-					"returnDialog",
-					"suggestion",
-					"withdrawals-applation",
-					"audit",
-					"returnDialog",
-					"50",
-					"dl",
-					"customer-refund",
-					"readonly",
-					"class=\"i-tc\"",
-					"提现说明：",
-					";\n",
+					"koocdn文件上传",
+					"没有找到页面",
+					"self",
+					"$btn",
+					"$pOrder",
+					"$btn",
+					"\\",
+					"spawn",
+					"self.$header",
+					"\\",
+					"exec",
+					"课程介绍",
+					"sshUpdate",
+					"课程介绍",
+					"（理/文）",
+					"授课老师：赵俊 新课标全国Ⅰ卷",
+					"width:180px",
+					"width:211px",
+					"width:248px",
+					"width:190px",
+					"<tbody>\n                        <tr>\n                            <td>",
+					"<th style=\"width:248px\">备考阶段</th>\n                            <th style=\"width:248px\">冲刺阶段</th>",
+					"\n",
+					"生物",
+					"<th style=\"width:211px\">备考阶段</th>\n                            <th style=\"width:211px\">冲刺阶段</th>",
+					"<th style=\"width:211px\">",
+					"<span class=\"fr\">（\\d{0,2}课时）</span>",
+					"<span class=\"fr\">（课时）</span>",
+					"第十?[一,二，三，四，五，六，七，八，九]关 ",
+					"第一关 ",
+					"关",
+					"第",
+					"\\d",
+					".*第\\d",
+					"第\\d",
+					"第\\d{1}关",
+					"第\\\\d{1}关",
+					"第几关",
+					"天 ",
+					"天：",
+					"\\",
+					"toftp",
+					"文件上传流程",
+					"setFile",
+					"ng-binding",
+					"loadFile",
+					"prev",
+					"\\",
+					"linkfn",
+					"mac",
+					"Mac",
+					"mac",
+					"db_options",
+					"localConf",
+					"getNowFile",
+					"$curr",
+					"scrollToContent",
+					"user",
+					"errorHandler",
+					"bodyParser",
+					"loadUser",
+					"express",
+					"putfile",
+					"外网测试环境",
+					"<option value=\"test\" >外网测试环境</option> ",
+					"getlist",
+					"DOM",
+					"DOMc",
+					"DOM",
+					"showLoading",
+					"showError",
+					"hideComplete",
+					"showSuccess",
 					"span",
-					"wc150",
-					"class=\"i-tc\"",
-					"./shuati/grading",
-					"lh1",
-					"lh",
-					"fscolor",
-					"878e99",
-					"confirm",
-					"ook",
-					"confirm",
-					"submitDialogFn",
-					"processSubmit",
-					"submit",
-					"ignore",
-					"recharge-application",
-					"x",
-					"w90",
-					"{jqeyr}",
-					"hello",
-					"${hello}",
-					"customer-service-manage",
-					"td",
-					"{\n                    isIcon: false,\n                    time: 1000\n                }",
-					"getFormData",
-					"i-cms-btn",
-					"form-input",
-					"i-select",
-					"i-cms-teacher-dialog",
-					".i-cms-teacher-dialog",
-					"order-detail",
-					"gray",
-					"openNewTab",
-					"jquery",
-					"$",
-					"user-account-query",
-					"div",
-					"tr",
-					"class=\"w150\"",
-					"w200",
-					"th",
-					">\n",
-					"small",
-					"c50000",
-					"8697b1",
-					"order",
-					"error",
-					"btn"
+					"view-end",
+					"$more",
+					"hideComplete",
+					"hiddencls",
+					"getWindow",
+					"scrollTop",
+					"Height",
+					"isWindow",
+					"window",
+					"item",
+					"extend",
+					"scroll",
+					"p",
+					"checkout",
+					"\\",
+					"北京化工大学",
+					"DoneState",
+					"kooplayer",
+					"koolearn",
+					"abort",
+					"dest",
+					"handleKeyChange",
+					"picker",
+					"p-text-info",
+					"loginTpl",
+					"新东方在线地理主讲教师",
+					"张",
+					"师",
+					"张",
+					"张艳",
+					"张艳平",
+					"loginTpl",
+					"¥1800",
+					"¥2000",
+					"postData",
+					"fsockopen",
+					"href=\"\"",
+					"init",
+					"Always",
+					"always",
+					"reportProxy",
+					"wrapReport",
+					"absDelta",
+					"shouldAdjustOldDeltas",
+					"onSelectFile",
+					"fixedHeader",
+					"-->\n",
+					"dialog",
+					"static.koocdn.com",
+					"analyResult",
+					"postData",
+					"pushData",
+					"setUserInfo",
+					"4/19429"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2281,55 +1283,1946 @@
 				"regex": false,
 				"replace_history":
 				[
+					"课程体系",
+					"",
+					"讲 ",
+					"        <!--#include virtual=\"/project/teach/1.x/common/dialog-login/_dialog-login.html\"-->",
+					"<!--#include virtual=\"/framework/global.html\"-->\n<!--#include virtual=\"/project/teach/1.x/common/dialog-login.html\"-->",
+					"$.ajaxCheckLogin",
+					"ajax"
 				],
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
-				"whole_word": false,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 42.0
+			},
+			"input":
+			{
+				"height": 68.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 76.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 134.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 84.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"buy-cours",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-course.js"
+					],
+					[
+						"abs-",
+						"static\\project\\teach\\1.x\\demo\\special-topic\\20150630\\demo-abs-20150714.html"
+					],
+					[
+						"/hunter-jobs.css",
+						"pushover\\css\\hunter-jobs.css"
+					],
+					[
+						"hunter-jobs.html",
+						"pushover\\demo\\two-phase\\hunter-jobs.html"
+					],
+					[
+						"abs.html",
+						"static\\project\\teach\\1.x\\demo\\special-topic\\20150630\\demo-abs.html"
+					],
+					[
+						"buy-coh",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-course.html"
+					],
+					[
+						"buy-co",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-course.js"
+					],
+					[
+						"buy-vip",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-vip.js"
+					],
+					[
+						"customer-service-manage/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\page.js"
+					],
+					[
+						"customer-service-management-list.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\customer-service-management-list.html"
+					],
+					[
+						"note",
+						"static\\project\\teach\\1.x\\js\\application\\notebook-my.js"
+					],
+					[
+						"noteh",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"common/getandjump",
+						"static\\project\\cms-mix\\1.x\\js\\common\\getAndJump.js"
+					],
+					[
+						"js/order/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\order\\page.js"
+					],
+					[
+						"order/paid.html",
+						"static\\project\\cms-mix\\1.x\\demo\\order\\paid.html"
+					],
+					[
+						"notebjs",
+						"static\\project\\teach\\1.x\\js\\application\\notebook-my.js"
+					],
+					[
+						"customer-service-manage/withdrawals-applation.js",
+						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\withdrawals-applation.js"
+					],
+					[
+						"applation-withdrawals.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\applation-withdrawals.html"
+					],
+					[
+						"applation-customer-refund.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\applation-customer-refund.html"
+					],
+					[
+						"buy-we",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-pay-weixin.scss"
+					],
+					[
+						"buyjs",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-course.js"
+					],
+					[
+						"buy-pays",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-pay.scss"
+					],
+					[
+						"header",
+						"static\\project\\teach\\1.x\\common\\header\\header.js"
+					],
+					[
+						"notebh",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"shark/ext/table",
+						"static\\framework\\css\\shark\\ext\\_table.scss"
+					],
+					[
+						"table-list/table-list.css",
+						"static\\project\\cms-mix\\1.x\\common\\table-list\\table-list.css"
+					],
+					[
+						"common/dialog/dialog",
+						"static\\common\\dialog\\dialog.js"
+					],
+					[
+						"notebs",
+						"static\\project\\teach\\1.x\\css\\application\\notebook.scss"
+					],
+					[
+						"buy/buy-pay-weixins",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-pay-weixin.scss"
+					],
+					[
+						"buy-pay-weixin.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-pay-weixin.html"
+					],
+					[
+						"/framework/js/global.html",
+						"static\\framework\\js\\global.html"
+					],
+					[
+						"/framework/global.html",
+						"static\\framework\\global.html"
+					],
+					[
+						"tixian",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\tixian-yiban.html"
+					],
+					[
+						"print",
+						"static\\project\\cms-mix\\1.x\\common\\print\\print.js"
+					],
+					[
+						"open-new",
+						"static\\project\\cms-mix\\1.x\\common\\open-new-tab\\open-new-tab.js"
+					],
+					[
+						"notebooks",
+						"static\\project\\teach\\1.x\\css\\application\\notebook.scss"
+					],
+					[
+						"view-tuikuan.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\view-tuikuan.html"
+					],
+					[
+						"tixian-yiban.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\tixian-yiban.html"
+					],
+					[
+						"finance-jioayirizi.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\finance-jioayirizi.html"
+					],
+					[
+						"buy-recharge-success.",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-recharge-success.scss"
+					],
+					[
+						"buy-s",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-success.scss"
+					],
+					[
+						"buy/buy-success.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-success.html"
+					],
+					[
+						"sendmess",
+						"static\\project\\cms-mix\\1.x\\js\\message-center\\send-message.js"
+					],
+					[
+						"lesson-play.html",
+						"static\\project\\teach\\1.x\\demo\\lesson-play.html"
+					],
+					[
+						"common/kooplayer/demo/demo.html",
+						"static\\common\\kooplayer\\demo\\demo.html"
+					],
+					[
+						"/demo/demo.html",
+						"static\\common\\jstree\\demo\\demo.html"
+					],
+					[
+						"buy-success.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-success.html"
+					],
+					[
+						"buy-res",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-recharge-success.scss"
+					],
+					[
+						"util",
+						"myCode\\myTest\\myJs\\utils.js"
+					],
+					[
+						"notep",
+						"static\\project\\teach\\1.x\\json\\notebook\\notelist.php"
+					],
+					[
+						"notesc",
+						"static\\project\\teach\\1.x\\css\\application\\notebook.scss"
+					],
+					[
+						"image-preview",
+						"static\\project\\teach\\1.x\\js\\common\\image-preview\\image-preview.js"
+					],
+					[
+						"jquery",
+						"test\\jquery.js"
+					],
+					[
+						"heraderscss",
+						"static\\project\\baike\\1.x\\common\\header\\css\\header.scss"
+					],
+					[
+						"buy-recharge-success.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-recharge-success.html"
+					],
+					[
+						"validatelength",
+						"static\\project\\cms-mix\\1.x\\js\\common\\validateLength.js"
+					],
+					[
+						"message-center/send-message",
+						"static\\project\\cms-mix\\1.x\\js\\message-center\\send-message.js"
+					],
+					[
+						"send-ms",
+						"static\\project\\cms-mix\\1.x\\demo\\message-center\\send-mesage.html"
+					],
+					[
+						"noteboos",
+						"static\\project\\teach\\1.x\\css\\application\\notebook.scss"
+					],
+					[
+						"notebm",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"buy-recharge-success",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-recharge-success.scss"
+					],
+					[
+						"buy-success",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-success.scss"
+					],
+					[
+						"buy-pay",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-pay.js"
+					],
+					[
+						"buy-p",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-pay.js"
+					],
+					[
+						"my-oderins",
+						"static\\project\\teach\\1.x\\css\\user\\my-order-info.scss"
+					],
+					[
+						"my-orders",
+						"static\\project\\teach\\1.x\\css\\user\\my-order.scss"
+					],
+					[
+						"my-order-a",
+						"static\\project\\teach\\1.x\\js\\user\\my-order-all.js"
+					],
+					[
+						"my-order-all.html",
+						"static\\project\\teach\\1.x\\demo\\user\\my-order-all.html"
+					],
+					[
+						"buy-pay-wes",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-pay-weixin.scss"
+					],
+					[
+						"buy-comms",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-common.scss"
+					],
+					[
+						"notejs",
+						"static\\project\\teach\\1.x\\js\\application\\notebook-my.js"
+					],
+					[
+						"buy-c",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-course.html"
+					],
+					[
+						"application-recharge.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\application-recharge.html"
+					],
+					[
+						"customer-service-manage/recharge-application.js",
+						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\recharge-application.js"
+					],
+					[
+						"searchresult.html",
+						"static\\project\\teach\\1.x\\demo\\application\\searchResult.html"
+					],
+					[
+						"user/mess",
+						"static\\project\\teach\\1.x\\css\\user\\message-center.scss"
+					],
+					[
+						"teach/hea",
+						"static\\project\\teach\\1.x\\common\\header\\header.js"
+					],
+					[
+						"header/",
+						"static\\project\\baike\\1.x\\common\\header\\header.js"
+					],
+					[
+						"notebsc",
+						"static\\project\\teach\\1.x\\css\\application\\notebook.scss"
+					],
+					[
+						"notemyh",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"navle",
+						"static\\project\\teach\\1.x\\js\\application\\nav-left.js"
+					],
+					[
+						"noteb",
+						"static\\project\\teach\\1.x\\css\\application\\notebook.scss"
+					],
+					[
+						"finance-xiaoshoutongji.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\finance-xiaoshoutongji.html"
+					],
+					[
+						"buy/buy-pay.js",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-pay.js"
+					],
+					[
+						"buy-pay.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-pay.html"
+					],
+					[
+						"nav-",
+						"static\\project\\teach\\1.x\\js\\application\\nav-left.js"
+					],
+					[
+						"notemy",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"user/message-center",
+						"static\\project\\teach\\1.x\\css\\user\\message-center.scss"
+					],
+					[
+						"finance/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\finance\\page.js"
+					],
+					[
+						"finance-yuetongji.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\finance-yuetongji.html"
+					],
+					[
+						"notebook",
+						"static\\project\\teach\\1.x\\css\\application\\notebook.scss"
+					],
+					[
+						"finance/pageindex.js",
+						"static\\project\\cms-mix\\1.x\\js\\finance\\pageIndex.js"
+					],
+					[
+						"nav-le",
+						"static\\project\\teach\\1.x\\js\\application\\nav-left.js"
+					],
+					[
+						"notehtm",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"send-me",
+						"static\\project\\cms-mix\\1.x\\js\\message-center\\send-message.js"
+					],
+					[
+						"my-order-info",
+						"static\\project\\teach\\1.x\\css\\user\\my-order-info.scss"
+					],
+					[
+						"my-order-waitpay.html",
+						"static\\project\\teach\\1.x\\demo\\user\\my-order-waitpay.html"
+					],
+					[
+						"send",
+						"static\\project\\cms-mix\\1.x\\demo\\message-center\\send-mesage.html"
+					],
+					[
+						"1.x/js/live/edit.js",
+						"static\\project\\cms-mix\\1.x\\js\\live\\edit.js"
+					],
+					[
+						"demo/live/edit.html",
+						"static\\project\\cms-mix\\1.x\\demo\\live\\edit.html"
+					],
+					[
+						"notebookht",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"notebook-my",
+						"static\\project\\teach\\1.x\\js\\application\\notebook-my.js"
+					],
+					[
+						"tuike-kefu.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\tuike-kefu.html"
+					],
+					[
+						"common/matheditor/matheditor.js",
+						"static\\project\\teach\\1.x\\js\\common\\matheditor\\matheditor.js"
+					],
+					[
+						"customer-service-manage/page",
+						"static\\project\\cms-mix\\1.x\\css\\customer-service-manage\\page.scss"
+					],
+					[
+						"css/customer-service-manage/page.css",
+						"static\\project\\cms-mix\\1.x\\css\\customer-service-manage\\page.css"
+					],
+					[
+						"customer-service-manage/page.css",
+						"static\\project\\cms-mix\\1.x\\css\\customer-service-manage\\page.css"
+					],
+					[
+						"note-my",
+						"static\\project\\teach\\1.x\\js\\application\\notebook-my.js"
+					],
+					[
+						"buy/buy-recharge.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-recharge.html"
+					],
+					[
+						"buy-re",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-recharge.js"
+					],
+					[
+						"buyc",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-course.scss"
+					],
+					[
+						"batch-list.html",
+						"static\\project\\cms-mix\\1.x\\demo\\order\\batch-list.html"
+					],
+					[
+						"loadl",
+						"static\\project\\teach\\1.x\\js\\common\\lazyLoadList1.0.js"
+					],
+					[
+						"withdrawals-applation.js",
+						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\withdrawals-applation.js"
+					],
+					[
+						"pageindex.js",
+						"static\\project\\cms-mix\\1.x\\js\\finance\\pageIndex.js"
+					],
+					[
+						"project/teach/1.x/js/user/my-order-all.js",
+						"static\\project\\teach\\1.x\\js\\user\\my-order-all.js"
+					],
+					[
+						"user/wait-pay.js",
+						"static\\project\\teach\\1.x\\js\\user\\wait-pay.js"
+					],
+					[
+						"my-order",
+						"static\\project\\teach\\1.x\\css\\user\\my-order.scss"
+					],
+					[
+						"customer-service-manage/customer-refund.js",
+						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\customer-refund.js"
+					],
+					[
+						"notebook-my.html",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"project/teach/1.x/css/buy/buy-vip",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-vip.scss"
+					],
+					[
+						"buy/buy-vip.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-vip.html"
+					],
+					[
+						"order/refund.html",
+						"static\\project\\cms-mix\\1.x\\demo\\order\\refund.html"
+					],
+					[
+						"css/order/page.css",
+						"static\\project\\cms-mix\\1.x\\css\\order\\page.css"
+					],
+					[
+						"paid",
+						"static\\project\\cms-mix\\1.x\\demo\\order\\paid.html"
+					],
+					[
+						"customer-service-manage/wfdialog.js",
+						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\wfdialog.js"
+					],
+					[
+						"tuike-shenhe.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\tuike-shenhe.html"
+					],
+					[
+						"customer-service-manage/tuike-shenhe.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\tuike-shenhe.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 327.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1256.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"wid",
+						"width	(index01.html)"
+					],
+					[
+						"clo",
+						"colspan	Attr"
+					],
+					[
+						"def",
+						"def	define-self"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"bo",
+						"bold"
+					],
+					[
+						"tri",
+						"trim"
+					],
+					[
+						"ar",
+						"arguments	(tool.js)"
+					],
+					[
+						"remove",
+						"removeEventListener	(utils.js)"
+					],
+					[
+						"add",
+						"addEventListener"
+					],
+					[
+						"quer",
+						"querySelector"
+					],
+					[
+						"doc",
+						"document"
+					],
+					[
+						"for",
+						"for	self-for"
+					],
+					[
+						"query",
+						"querySelectorAll	(jquery3.0-a.js)"
+					],
+					[
+						"arg",
+						"arguments"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"lef",
+						"left"
+					],
+					[
+						"curs",
+						"cursor"
+					],
+					[
+						"foc",
+						"focus"
+					],
+					[
+						"ra",
+						"radio"
+					],
+					[
+						"le",
+						"level-3"
+					],
+					[
+						"pre",
+						"preventDefault"
+					],
+					[
+						"ri",
+						"right"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"s",
+						"scroll"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"ani",
+						"animateEls"
+					],
+					[
+						"off",
+						"offset"
+					],
+					[
+						"anim",
+						"animated	(animate.css)"
+					],
+					[
+						"close",
+						"closest"
+					],
+					[
+						"win",
+						"window"
+					],
+					[
+						"he",
+						"header"
+					],
+					[
+						"wi",
+						"window"
+					],
+					[
+						"th",
+						"this"
+					],
+					[
+						"lev",
+						"level-3	(page.scss)"
+					],
+					[
+						"leve",
+						"level-1	(page.scss)"
+					],
+					[
+						"mat",
+						"margin-top"
+					],
+					[
+						"rem",
+						"removeClass	(header.js)"
+					],
+					[
+						"bacc",
+						"background-color"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"over",
+						"overflow"
+					],
+					[
+						"rel",
+						"relative"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"the",
+						"thead	(demo.html)"
+					],
+					[
+						"borderr",
+						"border-right"
+					],
+					[
+						"fo",
+						"font-family"
+					],
+					[
+						"borr",
+						"border-right"
+					],
+					[
+						"bor",
+						"border-top"
+					],
+					[
+						"my-",
+						"my-clearfix"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"cur",
+						"cursor	(header.scss)"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"bas",
+						"background-size"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"str",
+						"str"
+					],
+					[
+						"con",
+						"console	(notebook-my.html)"
+					],
+					[
+						"log",
+						"loginSuccess"
+					],
+					[
+						"fos",
+						"font-size"
+					],
+					[
+						"len",
+						"length	(notelist.tpl)"
+					],
+					[
+						"l",
+						"length"
+					],
+					[
+						"va",
+						"value	Attr"
+					],
+					[
+						"to",
+						"totalPage	(header.js)"
+					],
+					[
+						"visi",
+						"visible	(teach-main-nav.scss)"
+					],
+					[
+						"conte",
+						"content"
+					],
+					[
+						"texal",
+						"text-align"
+					],
+					[
+						"tra",
+						"transition"
+					],
+					[
+						"in",
+						"input	(login-register.tpl)"
+					],
+					[
+						"pla",
+						"placeholder	(login-register.tpl)"
+					],
+					[
+						"geta",
+						"getAllSearchData"
+					],
+					[
+						"get",
+						"getNewData"
+					],
+					[
+						"po",
+						"pointer	(common.scss)"
+					],
+					[
+						"se",
+						"selected	(buy-course.js)"
+					],
+					[
+						"current",
+						"currentTarget	(jplayer.koolearn1.0.js)"
+					],
+					[
+						"hasT",
+						"hasTeacher"
+					],
+					[
+						"bot",
+						"bottom"
+					],
+					[
+						"pr",
+						"prototype"
+					],
+					[
+						"_is",
+						"_isFirstPlay"
+					],
+					[
+						"_get",
+						"_getMoblieInfo"
+					],
+					[
+						"sel",
+						"self"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"no",
+						"none"
+					],
+					[
+						"curr",
+						"currentTarget	(jquery.jplayer.js)"
+					],
+					[
+						"fa",
+						"factory	(jquery.jplayer.js)"
+					],
+					[
+						"cl",
+						"click"
+					],
+					[
+						"bre",
+						"break-all"
+					],
+					[
+						"brea",
+						"word-break"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"sc",
+						"script	<script>"
+					],
+					[
+						"te",
+						"text"
+					],
+					[
+						"sea",
+						"searchData"
+					],
+					[
+						"opt",
+						"opts"
+					],
+					[
+						"app",
+						"apply	method.apply()"
+					],
+					[
+						"if",
+						"if	self-if"
+					],
+					[
+						"login",
+						"loginCb"
+					],
+					[
+						"hide",
+						"hideTeacher"
+					],
+					[
+						"sele",
+						"selected	Attr"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"h",
+						"header	Tag"
+					],
+					[
+						"show",
+						"showLoginDialog"
+					],
+					[
+						"fuc",
+						"function"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"set",
+						"setMedia"
+					],
+					[
+						"inp",
+						"input"
+					],
+					[
+						"di",
+						"dialog"
+					],
+					[
+						"table",
+						"table-layout"
+					],
+					[
+						"chec",
+						"checked"
+					],
+					[
+						"ce",
+						"checked	Attr"
+					],
+					[
+						"index",
+						"indexOf"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"curre",
+						"currentTarget"
+					],
+					[
+						"a",
+						"arguments"
+					],
+					[
+						"fi",
+						"file"
+					],
+					[
+						"ind",
+						"indexOf"
+					],
+					[
+						"check",
+						"checkbox"
+					],
+					[
+						"Fo",
+						"form"
+					],
+					[
+						"lo",
+						"location"
+					],
+					[
+						"la",
+						"labels"
+					],
+					[
+						"td",
+						"tdText"
+					],
+					[
+						"canc",
+						"cancelValue"
+					],
+					[
+						"cms",
+						"cmsDialog"
+					],
+					[
+						"input",
+						"inputh	input - hidden"
+					],
+					[
+						"hid",
+						"hidden"
+					],
+					[
+						"clear",
+						"clearTimeout"
+					],
+					[
+						"me",
+						"message"
+					],
+					[
+						"last",
+						"last-child"
+					],
+					[
+						"ve",
+						"vertical-align"
+					],
+					[
+						"valid",
+						"validate"
+					],
+					[
+						"els",
+						"else if	self-else if"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/customer-service-management-list.html",
+					"settings":
+					{
+						"buffer_size": 7622,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/page.js",
+					"settings":
+					{
+						"buffer_size": 5635,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/SASS Build/SASS - Compressed.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/SASS Build/SASS - Compressed.sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SASS Build/SASS - Compressed.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 376.0,
+				"last_filter": "markdo",
+				"selected_items":
+				[
+					[
+						"markdo",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markd",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mark",
+						"Bookmarks: Select Previous"
+					],
+					[
+						"set m",
+						"Set Syntax: Markdown"
+					],
+					[
+						"set java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"setja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sass",
+						"SassBeautify"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"sassb",
+						"SassBeautify"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"set sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"scss",
+						"Set Syntax: CSS"
+					],
+					[
+						"st ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set h",
+						"Set Syntax: HTML"
+					],
+					[
+						"seth",
+						"Set Syntax: HTML"
+					],
+					[
+						"set html",
+						"Set Syntax: HTML"
+					],
+					[
+						"set ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"insp",
+						"Package Control: Install Package"
+					],
+					[
+						":help",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						":wq",
+						"BracketHighlighter: Swap Quotes"
+					],
+					[
+						"set j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"setuse",
+						"Preferences: Settings - User"
+					],
+					[
+						"set ajvas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sassv",
+						"SassBeautify: Convert from CSS to current type"
+					],
+					[
+						"s",
+						"SassBeautify"
+					],
+					[
+						"set ",
+						"Set Syntax: Markdown"
+					],
+					[
+						"set htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"set js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"setjava",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"SassBeautify",
+						"SassBeautify"
+					],
+					[
+						"inp",
+						"Package Control: Install Package"
+					],
+					[
+						"set javc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"git add ",
+						"Git: Add Current File"
+					],
+					[
+						"git ",
+						"Git: Status"
+					],
+					[
+						"git s",
+						"Git: Status"
+					],
+					[
+						"git st",
+						"Git: Show Tags"
+					],
+					[
+						"inpa",
+						"Package Control: Install Package"
+					],
+					[
+						"reindent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"SET JA",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"re movep",
+						"Package Control: Remove Package"
+					],
+					[
+						"pacin",
+						"Package Control: Install Package"
+					],
+					[
+						"snif",
+						"Snippet: Function"
+					],
+					[
+						"setjavas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set jav",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set jaas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"set javs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"inspac",
+						"Snippet: input - search"
+					],
+					[
+						"set le",
+						"Set Syntax: LESS"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remop",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ints",
+						"Package Control: Install Package"
+					],
+					[
+						"Install Package",
+						"Package Control: Install Package"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"st java",
+						"Set Syntax: JavaScript"
+					]
+				],
+				"width": 472.0
+			},
+			"console":
+			{
+				"height": 404.0,
+				"history":
+				[
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by).",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/Work-XDF/code/static",
+				"/E/Work-XDF/code/static/project",
+				"/E/Work-XDF/code/static/project/cms-mix",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage",
+				"/E/Work-XDF/code/static/project/shuati",
+				"/E/Work-XDF/code/static/project/shuati/1.x",
+				"/E/Work-XDF/code/static/project/shuati/1.x/js",
+				"/E/Work-XDF/code/static/project/shuati/1.x/js/common",
+				"/E/Work-XDF/code/static/project/shuati/1.x/js/common/href-login",
+				"/E/Work-XDF/code/static/project/shuati/1.x/js/common/raphael-path",
+				"/E/Work-XDF/code/static/project/shuati/1.x/js/exam",
+				"/E/Work-XDF/code/static/sass",
+				"/E/MyCode-download/seajs-master",
+				"/E/Work-XDF/demo",
+				"/E/Work-XDF/demo/demo-seajs",
+				"/E/Work-XDF/demo/demo-seajs/js"
+			],
+			"file_history":
+			[
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/customer-service-management-list.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/page.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/customer-service-manage/page.scss",
+				"/E/Work-XDF/demo/demo-seajs/index01.html",
+				"/E/Work-XDF/demo/demo-seajs/sea.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/finance-yuetongji.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/finance-xiaoshoutongji-new.html",
+				"/E/Work-XDF/demo/demo-seajs/js/test.1000.js",
+				"/E/Work-XDF/code/static/package.json",
+				"/E/Work-XDF/cms-nodejs/config.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/finance-xiaoshoutongji.html",
+				"/D/googledownload/FW_API_purge/demo_push_content.php",
+				"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-vhosts.conf",
+				"/E/Work-XDF/code/static/grunt-tools/publish-project.js",
+				"/E/Work-XDF/code/static/grunt-tools/work-project.js",
+				"/E/Work-XDF/code/static/grunt-tools/project-grunt.js",
+				"/E/Work-XDF/code/static/project/cms-mix/package.json",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/customer-service-manage/page.css",
+				"/E/Work-XDF/code/static/Gruntfile.js",
+				"/E/Work-XDF/code/static/project/cms-mix/node_modules/grunt-sub/package.json",
+				"/E/Work-XDF/code/static/node_modules/grunt-jsdoc/package.json",
+				"/E/myCode/study-code/grunt-mtusir/Gruntfile05.js",
+				"/E/Work-XDF/demo/demo-seajs/js/b.js",
+				"/E/Work-XDF/demo/demo-seajs/js/require.js",
+				"/E/Work-XDF/demo/demo-seajs/js/seajs.config.js",
+				"/E/Work-XDF/demo/demo-seajs/js/path.js",
+				"/E/Work-XDF/demo/demo-seajs/index-config.html",
+				"/E/Work-XDF/demo/demo-seajs/js/seajs.use.md",
+				"/E/Work-XDF/demo/demo-seajs/js/define.js",
+				"/E/Work-XDF/cms-nodejs/Readme.md",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/E/Work-XDF/demo/demo-require/js/seajs.config.js",
+				"/E/Work-XDF/demo/demo-seajs/js/export.js",
+				"/E/Work-XDF/demo/demo-seajs/js/exports.js",
+				"/E/Work-XDF/demo/demo-seajs/js/e.js",
+				"/E/Work-XDF/demo/demo-seajs/js/c.js",
+				"/E/myCode/study-materials/git/gitcommad.txt",
+				"/E/Work-XDF/demo/demo-require/js/c.js",
+				"/E/Work-XDF/demo/demo-require/js/export.js",
+				"/E/Work-XDF/demo/demo-require/js/exports.js",
+				"/E/Work-XDF/demo/demo-require/js/b.js",
+				"/E/Work-XDF/demo/demo-require/index01.html",
+				"/E/Work-XDF/demo/demo-require/js/d.js",
+				"/E/Work-XDF/demo/demo-seajs/js/d.js",
+				"/E/Work-XDF/demo/demo-require/js/a.js",
+				"/E/Work-XDF/demo/demo-require/require.js",
+				"/E/myCode/study-code/grunt-mtusir/package.json",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/MODULE/demo/demo-require/require.js",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/MODULE/demo/demo-require/js/b.js",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/MODULE/demo/demo-require/js/a.js",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/MODULE/demo/demo-require/index01.html",
+				"/E/MyCode-download/seajs-master/dist/runtime-debug.js",
+				"/E/MyCode-download/seajs-master/dist/sea-debug.js",
+				"/E/MyCode-download/requirejs-master/README.md",
+				"/E/Work-XDF/cms-nodejs/routes/tool.js",
+				"/E/Work-XDF/cms-nodejs/routes/cms.js",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/finance-jioayirizi.html",
+				"/E/Work-XDF/cms-nodejs/views/tool/cms/add.html",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/MODULE/demo/demo-01-global-variables/demo.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/common/header/html/_header.html",
+				"/E/Work-XDF/cms-nodejs/B0-83-FE-5A-31-1A.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-pay.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-pay.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/buy/buy-vip.html",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/User/self-define.sublime-snippet",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/User/self-console-log.sublime-snippet",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/MODULE/demo/demo-01-global-variables/1.js",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/MODULE/demo/demo-01-global-variables/2.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/common/header/header.js",
+				"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/httpd.conf",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/demo/course/detail.html",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Program Files (x86)/Git/share/vim/vim74/syntax/gitconfig.vim",
+				"/E/myCode/study-materials/git/gitconfig.txt",
+				"/C/Users/xiongjian.KOOLEARN-INC/.gitconfig",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/application/notebook-my.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/js/buy/buy-course.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/application/notebook-my.html",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/common/bootstrap-datepicker/datapicker.js",
+				"/E/Work-XDF/code/static/grunt-tools/script.js",
+				"/E/Work-XDF/cms-nodejs/app.js",
+				"/E/MyFiles/js-high/qa/2015/07/27/bear-滚动加载-20150727/index.html",
+				"/C/Users/xiongjian.KOOLEARN-INC/.ssh/id_rsa.pub",
+				"/E/Work-XDF/cms-nodejs/db/user.js",
+				"/E/Work-XDF/cms-nodejs/db/mysql.js",
+				"/E/Work-XDF/cms-svn/cms/img/v2/js/tj/说明.txt",
+				"/E/Work-XDF/cms-svn/cms/img/v2/js/tj/tj.js",
+				"/E/Work-XDF/cms-nodejs/package.json",
+				"/E/Work-XDF/cms-nodejs/feCenter.bat",
+				"/E/Work-XDF/cms-nodejs/04-7D-7B-9B-D3-25.js",
+				"/E/Work-XDF/cms-nodejs/npm-debug.log",
+				"/E/Work-XDF/code/static/project/cms-mix/1.x/css/order/page.scss",
+				"/E/Work-XDF/cms-nodejs/views/tool/index.html",
+				"/E/Work-XDF/cms-nodejs/db/cms.js",
+				"/E/Work-XDF/cms-nodejs/views/tool/svn.html",
+				"/E/Work-XDF/cms-nodejs/bat/gitpull.bat",
+				"/E/Work-XDF/cms-nodejs/mainRoutes.js",
+				"/E/Work-XDF/cms-nodejs/views/tool/cms/koocdn.html",
+				"/C/Users/xiongjian.KOOLEARN-INC/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/special-topic/20150630/demo-abs.html",
+				"/E/Work-XDF/cms-svn/cms/manage/phpcms/templates/gaokao/special/index_kecheng.html",
+				"/C/Users/xiongjian.KOOLEARN-INC/cmdssh.pub",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/special-topic/20150630/js/page.js",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/special-topic/20150630/css/page.scss",
+				"/C/Users/xiongjian.KOOLEARN-INC/_netrc",
+				"/C/Users/xiongjian.KOOLEARN-INC/.gemrc",
+				"/C/Users/xiongjian.KOOLEARN-INC/Desktop/listen.html",
+				"/E/Work-XDF/code/static/project/teach/1.x/demo/special-topic/20150630/demo-abs-20150714.html",
+				"/E/myCode/myTest/nodejs/express-study/routes.js",
+				"/E/myCode/myTest/nodejs/express-study/test02.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/config.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/db/mysql.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/views/tool/cms/add.html",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/app.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/db/cms.js",
+				"/E/myCode/myTest/nodejs/express-study/test01.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/routes/tool.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/routes/cms.js",
+				"/E/Work-XDF/cms-nodejs/.svn/format",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/B0-83-FE-84-26-B6.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/mainRoutes.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/bat/mukeFe.bat",
+				"/E/myCode/myTest/nodejs/express-study/package.json",
+				"/E/myCode/myTest/nodejs/express-study/tmp/hello.js",
+				"/E/Work-XDF/cms-nodejs-code/feCenter/node_modules/express/package.json"
+			],
+			"find":
+			{
+				"height": 44.0
+			},
+			"find_in_files":
+			{
+				"height": 147.0,
+				"where_history":
+				[
+					"E:\\Work-XDF\\code\\static",
+					"E:\\Work-XDF\\code\\static\\project",
+					"E:\\Work-XDF\\code\\static\\project\\shuati",
+					"E:\\Work-XDF\\cms-nodejs",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core",
+					"E:\\Work-XDF\\cms-nodejs",
+					"E:\\Work-XDF\\cms-nodejs-code\\feCenter",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\dist\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js\\application",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\teach",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\teach",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js\\finance",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js\\customer-service-manage",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js\\buy",
+					"E:\\Work-XDF\\code\\static\\common\\kooplayer",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css.*.scss",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css*.scss",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js\\user",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js\\buy",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\MyCode-download\\seajs-master",
+					"E:\\Work-dajie\\Code\\assets\\up\\dj-mobile\\pushover",
+					"E:\\myCode",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\teach",
+					"E:\\Work-XDF\\code\\static\\project",
+					"E:\\Work-XDF\\player\\svn\\jplayer-new00",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js\\customer-service-manage",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo\\customer-service-manage",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x",
+					"E:\\Work-XDF\\code\\static\\grunt-tools",
+					"E:\\Work-XDF\\code\\static\\project",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css\\common\\base",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\teach",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project",
+					"E:\\Work-XDF\\code\\static\\project\\teach",
+					"E:\\Work-XDF\\code\\static\\grunt-tools",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js\\customer-service-manage",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo\\customer-service-manage",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js\\customer-service-manage",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo\\customer-service-manage",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\css",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\demo\\user-account-query",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js\\buy",
+					"E:\\Work-dongfangwendao\\WebSeatFlipCourse\\Admin\\Trunk\\WebSeat.FlipCourse.Presentation.Web",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\cms-mix",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\js",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css\\common",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x\\css\\buy",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
+					"E:\\Work-XDF\\code\\static\\project\\teach\\1.x",
+					"E:\\Work-dajie\\Code\\assets\\up\\dj-mobile\\pushover",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap",
+					"E:\\myCode\\study\\sass\\mixins",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
+					"E:\\Work-XDF\\player\\svn\\jplayer-new00\\skin",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins",
+					"E:\\MyCode-download\\bootstrap-sass-master\\assets\\stylesheets",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core\\core",
+					"E:\\myCode\\study\\sass\\mixins",
+					"E:\\Work-dajie\\Code\\assets\\up\\dj-mobile\\pushover\\css\\2015",
+					"E:\\myCode\\study\\sass\\mixins",
+					"E:\\Work-XDF\\code\\static\\framework\\css\\core"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"15",
+					"e97575",
+					"zipObject",
+					"btn",
+					"$btn",
+					"emit",
+					"define",
+					"charset",
+					"base",
+					"paths",
+					"parsePaths",
+					"parseAlias",
+					"debug",
+					"Debug",
+					"debug",
+					"DIRNAME",
+					"dirname",
+					"parsePaths",
+					"parseAlias",
+					"pkg",
+					"project_name",
+					"pkg",
+					"clean",
+					"sass",
+					"{\n",
+					"gallery",
+					"moudle",
+					"exports",
+					"use",
+					"d",
+					"res",
+					"Res",
+					"res",
+					"modName",
+					"require",
+					"path_tmp_cmd",
+					"old",
+					"cjsRequireRegExp",
+					"Employee",
+					"getres",
+					"addbackfile",
+					"Path",
+					"path",
+					"onError",
+					"normalizePort",
+					"concatx_module",
+					"p-state-picker-wrap",
+					"getKqSettingData",
+					"$btn",
+					"script",
+					"auto_co",
+					"old",
+					"filterCopyFile",
+					"filterBuildFile",
+					"getDelId",
+					"getProductId",
+					"getDelId",
+					"getPayment",
+					"];\n",
+					"getcurPathName",
+					"getCurHostName",
+					"tj",
+					"_getJson",
+					"oFun",
+					"jsonAttr",
+					"track",
+					"funClick",
+					"bind",
+					"_attrb",
+					"bind",
+					"init",
+					"input-keyword",
+					"input-daterange",
+					"div",
+					"initInput",
+					"changeInput",
+					"window",
+					"自动",
+					"supervisor",
+					"node app",
+					"2个小时",
+					"crashing",
+					"自动重启",
+					"w300",
+					"min",
+					"koocdn文件上传",
+					"没有找到页面",
+					"self",
+					"$btn",
+					"$pOrder",
+					"$btn",
+					"\\",
+					"spawn",
+					"self.$header",
+					"\\",
+					"exec",
+					"课程介绍",
+					"sshUpdate",
+					"课程介绍",
+					"（理/文）",
+					"授课老师：赵俊 新课标全国Ⅰ卷",
+					"width:180px",
+					"width:211px",
+					"width:248px",
+					"width:190px",
+					"<tbody>\n                        <tr>\n                            <td>",
+					"<th style=\"width:248px\">备考阶段</th>\n                            <th style=\"width:248px\">冲刺阶段</th>",
+					"\n",
+					"生物",
+					"<th style=\"width:211px\">备考阶段</th>\n                            <th style=\"width:211px\">冲刺阶段</th>",
+					"<th style=\"width:211px\">",
+					"<span class=\"fr\">（\\d{0,2}课时）</span>",
+					"<span class=\"fr\">（课时）</span>",
+					"第十?[一,二，三，四，五，六，七，八，九]关 ",
+					"第一关 ",
+					"关",
+					"第",
+					"\\d",
+					".*第\\d",
+					"第\\d",
+					"第\\d{1}关",
+					"第\\\\d{1}关",
+					"第几关",
+					"天 ",
+					"天：",
+					"\\",
+					"toftp",
+					"文件上传流程"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"课程体系",
+					"",
+					"讲 ",
+					"        <!--#include virtual=\"/project/teach/1.x/common/dialog-login/_dialog-login.html\"-->",
+					"<!--#include virtual=\"/framework/global.html\"-->\n<!--#include virtual=\"/project/teach/1.x/common/dialog-login.html\"-->",
+					"$.ajaxCheckLogin",
+					"ajax"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
 				"wrap": true
 			},
 			"folders":
 			[
 				{
-					"path": "E:\\MyCode-download\\bootstrap-sass-master"
-				},
-				{
-					"path": "E:\\myCode"
-				},
-				{
 					"path": "E:\\Work-dajie\\Code\\assets\\up\\dj-mobile\\pushover"
-				},
-				{
-					"path": "E:\\MyCode-download\\form-master"
 				},
 				{
 					"path": "E:\\Work-XDF\\code\\static"
 				},
 				{
-					"path": "C:\\Users\\xiongjian.KOOLEARN-INC\\AppData\\Roaming\\Sublime Text 3\\Packages\\SublimeTmpl\\templates"
+					"path": "E:\\myCode"
+				},
+				{
+					"path": "E:\\MyCode-download\\react-0.13.0"
+				},
+				{
+					"path": "E:\\Work-XDF\\cms-nodejs"
+				},
+				{
+					"path": "E:\\Work-XDF\\merge-svn"
+				},
+				{
+					"path": "E:\\MyCode-download\\seajs-master"
+				},
+				{
+					"path": "E:\\MyCode-download\\requirejs-master"
+				},
+				{
+					"path": "E:\\Work-XDF\\demo"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/demo/message-center/send-mesage.html",
+							"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/demo/customer-service-manage/customer-service-management-list.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 10657,
+								"buffer_size": 7622,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										8758,
-										8758
+										7565,
+										7565
 									]
 								],
 								"settings":
@@ -2337,94 +3230,88 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
 									"syntax": "Packages/HTML/HTML.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 3000.0,
+								"translation.y": 3600.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 1,
 							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 1,
-					"sheets":
-					[
+						},
 						{
 							"buffer": 1,
-							"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/js/message-center/send-message.js",
+							"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/page.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5057,
+								"buffer_size": 5635,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3823,
-										3823
+										2701,
+										2701
 									]
 								],
 								"settings":
@@ -2432,21 +3319,6 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
@@ -2457,31 +3329,46 @@
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -2492,189 +3379,11 @@
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
-								"translation.x": 0.0,
-								"translation.y": 1020.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/js/customer-service-manage/wfdialog.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 5110,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2326,
-										2326
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 900.0,
+								"translation.x": -0.0,
+								"translation.y": 1368.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/E/Work-XDF/code/static/project/cms-mix/1.x/css/customer-service-manage/page.scss",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 6273,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										501,
-										501
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 240.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -2682,11 +3391,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 40.0
+				"height": 42.0
 			},
 			"input":
 			{
-				"height": 52.0
+				"height": 68.0
 			},
 			"layout":
 			{
@@ -2697,18 +3406,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.416452656008,
 					1.0
 				],
 				"rows":
@@ -2720,18 +3422,22 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 418.0
+				"height": 76.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
+			"output.git":
+			{
+				"height": 134.0
+			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,1248,49,148,1761",
+			"position": "0,2,3,-32000,-32000,-1,-1,1049,956,258,2228",
 			"project": "",
 			"replace":
 			{
-				"height": 52.0
+				"height": 84.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2741,271 +3447,331 @@
 				"selected_items":
 				[
 					[
-						"common/audit/audit.js",
-						"static\\project\\cms-mix\\1.x\\common\\audit\\audit.js"
-					],
-					[
-						"mission-center/live/todo.html",
-						"static\\project\\cms-mix\\1.x\\demo\\mission-center\\live\\todo.html"
-					],
-					[
-						"message-center/send-mesage.html",
-						"static\\project\\cms-mix\\1.x\\demo\\message-center\\send-mesage.html"
-					],
-					[
-						"customer-service-manage/page.css",
-						"static\\project\\cms-mix\\1.x\\css\\customer-service-manage\\page.css"
-					],
-					[
-						"customer-service-manage/applation-withdrawals.html",
-						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\applation-withdrawals.html"
-					],
-					[
-						"message-center/page.js",
-						"static\\project\\cms-mix\\1.x\\js\\message-center\\page.js"
-					],
-					[
-						"customer-service-manage/chongzhi-caiwu.html",
-						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\chongzhi-caiwu.html"
-					],
-					[
-						"customer-service-manage/finance-yuetongji.html",
-						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\finance-yuetongji.html"
-					],
-					[
-						"1.x/js/buy/buy-course.js",
-						"static\\project\\teach\\1.x\\js\\buy\\buy-course.js"
-					],
-					[
-						"buy/buy-course.html",
-						"static\\project\\teach\\1.x\\demo\\buy\\buy-course.html"
-					],
-					[
-						"order/batch-list.html",
-						"static\\project\\cms-mix\\1.x\\demo\\order\\batch-list.html"
-					],
-					[
-						"customer-refund.js",
-						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\customer-refund.js"
-					],
-					[
-						"mission-center/course/todo.html",
-						"static\\project\\cms-mix\\1.x\\demo\\mission-center\\course\\todo.html"
-					],
-					[
-						"submitdialog/dialog",
-						"static\\project\\cms-mix\\1.x\\common\\audit\\submitDialog\\dialog.js"
-					],
-					[
-						"audit.css",
-						"static\\project\\cms-mix\\1.x\\common\\audit\\audit.css"
-					],
-					[
-						"audit/audit.js",
-						"static\\project\\cms-mix\\1.x\\common\\audit\\audit.js"
-					],
-					[
-						"order/page.js",
-						"static\\project\\cms-mix\\1.x\\js\\order\\page.js"
-					],
-					[
-						"css/course-list-update/page.css",
-						"static\\project\\cms-mix\\1.x\\css\\course-list-update\\page.css"
-					],
-					[
-						"demo/course/list-update.html",
-						"static\\project\\cms-mix\\1.x\\demo\\course\\list-update.html"
-					],
-					[
-						"course-list-update/page.css",
-						"static\\project\\cms-mix\\1.x\\css\\course-list-update\\page.css"
-					],
-					[
-						"course/list-update.html",
-						"static\\project\\cms-mix\\1.x\\demo\\course\\list-update.html"
-					],
-					[
-						"course-list-update/page.js",
-						"static\\project\\cms-mix\\1.x\\js\\course-list-update\\page.js"
-					],
-					[
-						"user-account-query/page.css",
-						"static\\project\\cms-mix\\1.x\\css\\user-account-query\\page.css"
-					],
-					[
-						"live-product.html",
-						"static\\project\\cms-mix\\1.x\\demo\\user-account-query\\live-product.html"
-					],
-					[
-						"/path/path.js",
-						"static\\project\\cms-mix\\1.x\\js\\path\\path.js"
-					],
-					[
-						"path/path.html",
-						"static\\project\\cms-mix\\1.x\\demo\\path\\path.html"
-					],
-					[
-						"movedialog/dialog",
-						"static\\project\\cms-mix\\1.x\\js\\course-list\\moveDialog\\dialog.js"
-					],
-					[
-						"1.x/js/course-list/page.js",
-						"static\\project\\cms-mix\\1.x\\js\\course-list\\page.js"
-					],
-					[
-						"demo/course/list.html",
-						"static\\project\\cms-mix\\1.x\\demo\\course\\list.html"
-					],
-					[
 						"customer-service-manage/page.js",
 						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\page.js"
 					],
 					[
-						"course-list/page.js",
-						"static\\project\\cms-mix\\1.x\\js\\course-list\\page.js"
+						"customer-service-management-list.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\customer-service-management-list.html"
 					],
 					[
-						"learn-progess-detail.html",
-						"static\\project\\cms-mix\\1.x\\demo\\user-account-query\\learn-progess-detail.html"
+						"css/customer-service-manage/page",
+						"static\\project\\cms-mix\\1.x\\css\\customer-service-manage\\page.scss"
+					],
+					[
+						"finance-yuetongji.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\finance-yuetongji.html"
+					],
+					[
+						"customer-service-manage/customer-service-management-list.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\customer-service-management-list.html"
+					],
+					[
+						"finance-xiaoshoutongji.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\finance-xiaoshoutongji.html"
+					],
+					[
+						"customer-service-manage/finance-jioayirizi.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\finance-jioayirizi.html"
+					],
+					[
+						"buy-pa",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-pay.html"
+					],
+					[
+						"buy-vi",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-vip.html"
+					],
+					[
+						"project/cms-mix/1.x/js/customer-service-manage/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\page.js"
+					],
+					[
+						"1.x/js/customer-service-manage/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\page.js"
+					],
+					[
+						"demo/customer-service-manage/customer-service-management-list.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\customer-service-management-list.html"
+					],
+					[
+						"buy-co",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-course.js"
+					],
+					[
+						"notebook-my.js",
+						"static\\project\\teach\\1.x\\js\\application\\notebook-my.js"
+					],
+					[
+						"notebook-my.html",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"/project/cms-mix/1.x/css/customer-service-manage/page.css",
+						"static\\project\\cms-mix\\1.x\\css\\customer-service-manage\\page.css"
+					],
+					[
+						"/demo/customer-service-manage/finance-xiaoshoutongji.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\finance-xiaoshoutongji.html"
+					],
+					[
+						"cms-mix/1.x/css/customer-service-manage/page.scss",
+						"static\\project\\cms-mix\\1.x\\css\\customer-service-manage\\page.scss"
+					],
+					[
+						"buy-cours",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-course.js"
+					],
+					[
+						"abs-",
+						"static\\project\\teach\\1.x\\demo\\special-topic\\20150630\\demo-abs-20150714.html"
+					],
+					[
+						"/hunter-jobs.css",
+						"pushover\\css\\hunter-jobs.css"
+					],
+					[
+						"hunter-jobs.html",
+						"pushover\\demo\\two-phase\\hunter-jobs.html"
+					],
+					[
+						"abs.html",
+						"static\\project\\teach\\1.x\\demo\\special-topic\\20150630\\demo-abs.html"
+					],
+					[
+						"buy-coh",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-course.html"
+					],
+					[
+						"buy-vip",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-vip.js"
+					],
+					[
+						"note",
+						"static\\project\\teach\\1.x\\js\\application\\notebook-my.js"
+					],
+					[
+						"noteh",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"common/getandjump",
+						"static\\project\\cms-mix\\1.x\\js\\common\\getAndJump.js"
+					],
+					[
+						"js/order/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\order\\page.js"
 					],
 					[
 						"order/paid.html",
 						"static\\project\\cms-mix\\1.x\\demo\\order\\paid.html"
 					],
 					[
-						"login-register-demo.js",
-						"static\\project\\teach\\1.x\\js\\user\\login-register-demo.js"
+						"notebjs",
+						"static\\project\\teach\\1.x\\js\\application\\notebook-my.js"
 					],
 					[
-						"111806",
-						"pushover\\demo\\num\\111806.html"
+						"customer-service-manage/withdrawals-applation.js",
+						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\withdrawals-applation.js"
 					],
 					[
-						"user-common.css",
-						"static\\project\\teach\\1.x\\css\\user\\user-common.css"
+						"applation-withdrawals.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\applation-withdrawals.html"
 					],
 					[
-						"my-order",
-						"static\\project\\teach\\1.x\\css\\user\\my-order.scss"
+						"applation-customer-refund.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\applation-customer-refund.html"
 					],
 					[
-						"/user/my-order-all.html",
-						"static\\project\\teach\\1.x\\demo\\user\\my-order-all.html"
+						"buy-we",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-pay-weixin.scss"
 					],
 					[
-						"user-account-query/use-proportions.html",
-						"static\\project\\cms-mix\\1.x\\demo\\user-account-query\\use-proportions.html"
+						"buyjs",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-course.js"
 					],
 					[
-						"js/common/tab-switch",
-						"static\\project\\teach\\1.x\\js\\common\\tab-switch.js"
+						"buy-pays",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-pay.scss"
 					],
 					[
-						"validate",
-						"pushover\\lib\\validate.js"
+						"header",
+						"static\\project\\teach\\1.x\\common\\header\\header.js"
 					],
 					[
-						"user/user-common.css",
-						"static\\project\\teach\\1.x\\css\\user\\user-common.css"
+						"notebh",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
 					],
 					[
-						"user/my-order",
-						"static\\project\\teach\\1.x\\css\\user\\my-order.scss"
+						"shark/ext/table",
+						"static\\framework\\css\\shark\\ext\\_table.scss"
 					],
 					[
-						"buy-re",
-						"static\\project\\teach\\1.x\\js\\buy\\buy-recharge.js"
+						"table-list/table-list.css",
+						"static\\project\\cms-mix\\1.x\\common\\table-list\\table-list.css"
 					],
 					[
-						"glo",
-						"static\\framework\\global.html"
+						"common/dialog/dialog",
+						"static\\common\\dialog\\dialog.js"
 					],
 					[
-						"g",
-						"static\\framework\\global.html"
+						"notebs",
+						"static\\project\\teach\\1.x\\css\\application\\notebook.scss"
 					],
 					[
-						"/fileupload/demo.html",
-						"myCode\\myTest\\fileUpload\\demo.html"
+						"buy/buy-pay-weixins",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-pay-weixin.scss"
 					],
 					[
-						"course.php",
-						"static\\project\\teach\\1.x\\json\\buy\\course.php"
+						"buy-pay-weixin.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-pay-weixin.html"
 					],
 					[
-						"buy-course",
-						"static\\project\\teach\\1.x\\demo\\buy\\buy-course.html"
-					],
-					[
-						"user/dialog-login.html",
-						"static\\project\\teach\\1.x\\demo\\user\\dialog-login.html"
+						"/framework/js/global.html",
+						"static\\framework\\js\\global.html"
 					],
 					[
 						"/framework/global.html",
 						"static\\framework\\global.html"
 					],
 					[
-						"buy/buy-pay.html",
-						"static\\project\\teach\\1.x\\demo\\buy\\buy-pay.html"
+						"tixian",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\tixian-yiban.html"
 					],
 					[
-						"safety/page.js",
-						"static\\project\\setting\\1.0\\js\\safety\\page.js"
+						"print",
+						"static\\project\\cms-mix\\1.x\\common\\print\\print.js"
 					],
 					[
-						"demo/safety.html",
-						"static\\project\\setting\\1.0\\demo\\safety.html"
+						"open-new",
+						"static\\project\\cms-mix\\1.x\\common\\open-new-tab\\open-new-tab.js"
 					],
 					[
-						"pay.htm",
-						"static\\project\\teach\\1.x\\demo\\buy\\buy-pay.html"
+						"notebooks",
+						"static\\project\\teach\\1.x\\css\\application\\notebook.scss"
 					],
 					[
-						"user-account-query/user-login.html",
-						"static\\project\\cms-mix\\1.x\\demo\\user-account-query\\user-login.html"
+						"view-tuikuan.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\view-tuikuan.html"
 					],
 					[
-						"js/buy/buy-live.js",
-						"static\\project\\teach\\1.x\\js\\buy\\buy-live.js"
+						"tixian-yiban.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\tixian-yiban.html"
 					],
 					[
-						"buy/buy-live.html",
-						"static\\project\\teach\\1.x\\demo\\buy\\buy-live.html"
+						"finance-jioayirizi.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\finance-jioayirizi.html"
+					],
+					[
+						"buy-recharge-success.",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-recharge-success.scss"
+					],
+					[
+						"buy-s",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-success.scss"
+					],
+					[
+						"buy/buy-success.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-success.html"
+					],
+					[
+						"sendmess",
+						"static\\project\\cms-mix\\1.x\\js\\message-center\\send-message.js"
+					],
+					[
+						"lesson-play.html",
+						"static\\project\\teach\\1.x\\demo\\lesson-play.html"
+					],
+					[
+						"common/kooplayer/demo/demo.html",
+						"static\\common\\kooplayer\\demo\\demo.html"
+					],
+					[
+						"/demo/demo.html",
+						"static\\common\\jstree\\demo\\demo.html"
 					],
 					[
 						"buy-success.html",
 						"static\\project\\teach\\1.x\\demo\\buy\\buy-success.html"
 					],
 					[
-						"buy/buy-recharge.js",
-						"static\\project\\teach\\1.x\\js\\buy\\buy-recharge.js"
+						"buy-res",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-recharge-success.scss"
 					],
 					[
-						"buy/buy-recharge.html",
-						"static\\project\\teach\\1.x\\demo\\buy\\buy-recharge.html"
+						"util",
+						"myCode\\myTest\\myJs\\utils.js"
 					],
 					[
-						"css/path/page.css",
-						"static\\project\\cms-mix\\1.x\\css\\path\\page.css"
+						"notep",
+						"static\\project\\teach\\1.x\\json\\notebook\\notelist.php"
 					],
 					[
-						"js/path/path.js",
-						"static\\project\\cms-mix\\1.x\\js\\path\\path.js"
+						"notesc",
+						"static\\project\\teach\\1.x\\css\\application\\notebook.scss"
 					],
 					[
-						"demo/path/path.html",
-						"static\\project\\cms-mix\\1.x\\demo\\path\\path.html"
+						"image-preview",
+						"static\\project\\teach\\1.x\\js\\common\\image-preview\\image-preview.js"
 					],
 					[
-						"live-course/page.js",
-						"static\\project\\cms-mix\\1.x\\js\\live-course\\page.js"
+						"jquery",
+						"test\\jquery.js"
 					],
 					[
-						"live-course/edit.html",
-						"static\\project\\cms-mix\\1.x\\demo\\live-course\\edit.html"
+						"heraderscss",
+						"static\\project\\baike\\1.x\\common\\header\\css\\header.scss"
 					],
 					[
-						"user/my-order-all.js",
+						"buy-recharge-success.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-recharge-success.html"
+					],
+					[
+						"validatelength",
+						"static\\project\\cms-mix\\1.x\\js\\common\\validateLength.js"
+					],
+					[
+						"message-center/send-message",
+						"static\\project\\cms-mix\\1.x\\js\\message-center\\send-message.js"
+					],
+					[
+						"send-ms",
+						"static\\project\\cms-mix\\1.x\\demo\\message-center\\send-mesage.html"
+					],
+					[
+						"noteboos",
+						"static\\project\\teach\\1.x\\css\\application\\notebook.scss"
+					],
+					[
+						"notebm",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"buy-recharge-success",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-recharge-success.scss"
+					],
+					[
+						"buy-success",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-success.scss"
+					],
+					[
+						"buy-pay",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-pay.js"
+					],
+					[
+						"buy-p",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-pay.js"
+					],
+					[
+						"my-oderins",
+						"static\\project\\teach\\1.x\\css\\user\\my-order-info.scss"
+					],
+					[
+						"my-orders",
+						"static\\project\\teach\\1.x\\css\\user\\my-order.scss"
+					],
+					[
+						"my-order-a",
 						"static\\project\\teach\\1.x\\js\\user\\my-order-all.js"
 					],
 					[
@@ -3013,96 +3779,184 @@
 						"static\\project\\teach\\1.x\\demo\\user\\my-order-all.html"
 					],
 					[
-						"my-order-all.js",
-						"static\\project\\teach\\1.x\\js\\user\\my-order-all.js"
+						"buy-pay-wes",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-pay-weixin.scss"
 					],
 					[
-						"1.x/demo/i.html",
-						"static\\project\\cms-mix\\1.x\\demo\\i.html"
+						"buy-comms",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-common.scss"
 					],
 					[
-						"product-manage-edit/page.js",
-						"static\\project\\cms-mix\\1.x\\js\\product-manage-edit\\page.js"
+						"notejs",
+						"static\\project\\teach\\1.x\\js\\application\\notebook-my.js"
 					],
 					[
-						"product-manage/edit.html",
-						"static\\project\\cms-mix\\1.x\\demo\\product-manage\\edit.html"
+						"buy-c",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-course.html"
 					],
 					[
-						"/js/live/page.js",
-						"static\\project\\cms-mix\\1.x\\js\\live\\page.js"
+						"application-recharge.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\application-recharge.html"
 					],
 					[
-						"live/live-edit.html",
-						"static\\project\\cms-mix\\1.x\\demo\\live\\live-edit.html"
+						"customer-service-manage/recharge-application.js",
+						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\recharge-application.js"
 					],
 					[
-						"product-manage/list.html",
-						"static\\project\\cms-mix\\1.x\\demo\\product-manage\\list.html"
+						"searchresult.html",
+						"static\\project\\teach\\1.x\\demo\\application\\searchResult.html"
 					],
 					[
-						"buy-recharge.html",
+						"user/mess",
+						"static\\project\\teach\\1.x\\css\\user\\message-center.scss"
+					],
+					[
+						"teach/hea",
+						"static\\project\\teach\\1.x\\common\\header\\header.js"
+					],
+					[
+						"header/",
+						"static\\project\\baike\\1.x\\common\\header\\header.js"
+					],
+					[
+						"notebsc",
+						"static\\project\\teach\\1.x\\css\\application\\notebook.scss"
+					],
+					[
+						"notemyh",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"navle",
+						"static\\project\\teach\\1.x\\js\\application\\nav-left.js"
+					],
+					[
+						"noteb",
+						"static\\project\\teach\\1.x\\css\\application\\notebook.scss"
+					],
+					[
+						"buy/buy-pay.js",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-pay.js"
+					],
+					[
+						"buy-pay.html",
+						"static\\project\\teach\\1.x\\demo\\buy\\buy-pay.html"
+					],
+					[
+						"nav-",
+						"static\\project\\teach\\1.x\\js\\application\\nav-left.js"
+					],
+					[
+						"notemy",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"user/message-center",
+						"static\\project\\teach\\1.x\\css\\user\\message-center.scss"
+					],
+					[
+						"finance/page.js",
+						"static\\project\\cms-mix\\1.x\\js\\finance\\page.js"
+					],
+					[
+						"notebook",
+						"static\\project\\teach\\1.x\\css\\application\\notebook.scss"
+					],
+					[
+						"finance/pageindex.js",
+						"static\\project\\cms-mix\\1.x\\js\\finance\\pageIndex.js"
+					],
+					[
+						"nav-le",
+						"static\\project\\teach\\1.x\\js\\application\\nav-left.js"
+					],
+					[
+						"notehtm",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"send-me",
+						"static\\project\\cms-mix\\1.x\\js\\message-center\\send-message.js"
+					],
+					[
+						"my-order-info",
+						"static\\project\\teach\\1.x\\css\\user\\my-order-info.scss"
+					],
+					[
+						"my-order-waitpay.html",
+						"static\\project\\teach\\1.x\\demo\\user\\my-order-waitpay.html"
+					],
+					[
+						"send",
+						"static\\project\\cms-mix\\1.x\\demo\\message-center\\send-mesage.html"
+					],
+					[
+						"1.x/js/live/edit.js",
+						"static\\project\\cms-mix\\1.x\\js\\live\\edit.js"
+					],
+					[
+						"demo/live/edit.html",
+						"static\\project\\cms-mix\\1.x\\demo\\live\\edit.html"
+					],
+					[
+						"notebookht",
+						"static\\project\\teach\\1.x\\demo\\application\\notebook-my.html"
+					],
+					[
+						"notebook-my",
+						"static\\project\\teach\\1.x\\js\\application\\notebook-my.js"
+					],
+					[
+						"tuike-kefu.html",
+						"static\\project\\cms-mix\\1.x\\demo\\customer-service-manage\\tuike-kefu.html"
+					],
+					[
+						"common/matheditor/matheditor.js",
+						"static\\project\\teach\\1.x\\js\\common\\matheditor\\matheditor.js"
+					],
+					[
+						"customer-service-manage/page",
+						"static\\project\\cms-mix\\1.x\\css\\customer-service-manage\\page.scss"
+					],
+					[
+						"css/customer-service-manage/page.css",
+						"static\\project\\cms-mix\\1.x\\css\\customer-service-manage\\page.css"
+					],
+					[
+						"customer-service-manage/page.css",
+						"static\\project\\cms-mix\\1.x\\css\\customer-service-manage\\page.css"
+					],
+					[
+						"note-my",
+						"static\\project\\teach\\1.x\\js\\application\\notebook-my.js"
+					],
+					[
+						"buy/buy-recharge.html",
 						"static\\project\\teach\\1.x\\demo\\buy\\buy-recharge.html"
 					],
 					[
-						"table/demo/demo.html",
-						"static\\framework\\css\\shark\\ext\\table\\demo\\demo.html"
+						"buy-re",
+						"static\\project\\teach\\1.x\\js\\buy\\buy-recharge.js"
 					],
 					[
-						"lesson-list.js",
-						"static\\project\\teach\\1.x\\js\\lesson-list\\lesson-list.js"
+						"buyc",
+						"static\\project\\teach\\1.x\\css\\buy\\buy-course.scss"
 					],
 					[
-						"lesson-list.html",
-						"static\\project\\teach\\1.x\\demo\\lesson-list.html"
+						"batch-list.html",
+						"static\\project\\cms-mix\\1.x\\demo\\order\\batch-list.html"
 					],
 					[
-						"safety.html",
-						"static\\project\\setting\\1.0\\demo\\safety.html"
+						"loadl",
+						"static\\project\\teach\\1.x\\js\\common\\lazyLoadList1.0.js"
 					],
 					[
-						"vendor-pre",
-						"bootstrap-sass-master\\assets\\stylesheets\\bootstrap\\mixins\\_vendor-prefixes.scss"
+						"withdrawals-applation.js",
+						"static\\project\\cms-mix\\1.x\\js\\customer-service-manage\\withdrawals-applation.js"
 					],
 					[
-						"global.html",
-						"static\\framework\\global.html"
-					],
-					[
-						"mialfor",
-						"pushover\\js\\mail_form.js"
-					],
-					[
-						"102301",
-						"pushover\\js\\num\\102301.js"
-					],
-					[
-						"mail",
-						"pushover\\js\\mail_form.js"
-					],
-					[
-						"102301.",
-						"pushover\\js\\num\\102301.js"
-					],
-					[
-						"mailfo",
-						"pushover\\js\\mail_form.js"
-					],
-					[
-						"102317",
-						"pushover\\demo\\num\\102317.html"
-					],
-					[
-						"10231",
-						"pushover\\demo\\num\\102316.html"
-					],
-					[
-						"102304.html",
-						"pushover\\demo\\num\\102304.html"
-					],
-					[
-						"1001",
-						"css\\num\\100101.css"
+						"pageindex.js",
+						"static\\project\\cms-mix\\1.x\\js\\finance\\pageIndex.js"
 					]
 				],
 				"width": 0.0
@@ -3133,7 +3987,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 232.0,
+			"side_bar_width": 261.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

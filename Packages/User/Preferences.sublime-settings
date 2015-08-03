@@ -1,24 +1,42 @@
 {
 	"attr":
 	{
+		"Id": "0.1.0",
 		"author": "xj",
 		"email": "xj_bond@live.com",
 		"hello": "$",
 		"link": "http://weibo.com/u/1932435750/home?topnav=1&wvr=5"
 	},
+	"auto_complete_commit_on_tab": true,
 	"auto_complete_selector": "source, text",
 	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"create_window_at_startup": false,
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.sublime-workspace",
+		"*.scssc"
+	],
 	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".svn",
+		"tmp/cache",
+		".vagrant",
+		"node_modules",
+		".sass-cache"
+	],
 	"font_face": "Consolas",
-	"font_size": 11,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"PHP",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,

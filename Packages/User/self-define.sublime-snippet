@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[/* @grunt-build */
+define(function (require, exports, module) {
+    ${1}
+});]]></content>
+    <tabTrigger>def</tabTrigger>
+    <scope>source.js</scope>
+    <description>define-self</description>
+</snippet>
+
+
+
+
